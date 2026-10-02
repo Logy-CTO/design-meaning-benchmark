@@ -2,8 +2,8 @@
 
 Data and code for **Evaluating Vision–Language Models for Perceived Product Meaning: Category Priors and Viewer Disagreement**, by Taik Su Hong and Jang Woo Kwon.
 
-- Version: 1.0.1
-- Full dataset and code release: https://github.com/Logy-CTO/design-meaning-benchmark/releases/tag/v1.0.1
+- Version: 1.0.2
+- Full dataset and code release: https://github.com/Logy-CTO/design-meaning-benchmark/releases/tag/v1.0.2
 - Code: https://github.com/Logy-CTO/design-meaning-benchmark
 - 1,600 generated product images; eight categories, 200 images each.
 - 30 participants rated the same balanced 200-image subset, producing 6,000 responses.
@@ -12,7 +12,7 @@ Data and code for **Evaluating Vision–Language Models for Perceived Product Me
 
 ## Download and reproduce
 
-Clone this repository. Download the eight `images_<category>.zip` archives from the [GitHub release](https://github.com/Logy-CTO/design-meaning-benchmark/releases/tag/v1.0.1) and extract all of them into the repository root; each archive contains files under `images/`. Images are attached to the GitHub release. The release also contains `code_and_data_v1.0.1.zip` and `SHA256SUMS.txt`.
+Clone this repository. Download the eight `images_<category>.zip` archives from the [GitHub release](https://github.com/Logy-CTO/design-meaning-benchmark/releases/tag/v1.0.2) and extract all of them into the repository root; each archive contains files under `images/`. Images are attached to the GitHub release. The release also contains `code_and_data_v1.0.2.zip` and `SHA256SUMS.txt`.
 
 ```sh
 python scripts/download_images.py
@@ -47,3 +47,7 @@ See [the data dictionary](docs/DATA_DICTIONARY.md). The field `design_intent` me
 Original research code is provided under MIT. Dataset files, prompts and documentation are provided under CC BY-NC 4.0 to the extent the authors hold applicable rights. Generated image outputs are additionally subject to the applicable Black Forest Labs output-use conditions; see `LICENSE_DATA.md`. Dependencies and pretrained models retain their own licenses. No model weights are included.
 
 Use `CITATION.cff` to cite the versioned data/code release. This GitHub release has no DOI; its version URL is the citation link. The manuscript has not been assigned a publication DOI.
+
+## Version 1.0.2
+
+The matched-input validation record now lists the checksums of the distributed output files. Participant responses, predictions, images and numerical results are unchanged from version 1.0.1.

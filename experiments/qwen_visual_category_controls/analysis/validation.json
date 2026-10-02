@@ -8,7 +8,7 @@
   "unique_model_queries": 1216,
   "scope": "Post hoc fixed 200 images; matched neutral label-only prompt, not the original multi-field benchmark prompt. Category-only uses eight unique queries per label order, expanded over 25 images each. Paired category-stratified image bootstrap conditions on these eight categories, the panel, deterministic outputs and the fixed shuffle; it does not estimate prompt or category population uncertainty. Invalid labels are retained as failures, never recoded as unclear. Label-order analyses are sensitivity checks, not independent replications.",
   "files": {
-    "run_metadata.json": "1adcb506e1d98a20d10eaa15fcc8f56d30b575d5248229cb9a6382b9c3822b09",
-    "predictions.jsonl": "20e8dd0563c667cae7081315323969881e2a64054313664d12d89e539f066d26"
+    "run_metadata.json": "306310a06ae9e77e4788f145da8a518d5de982ecb57113a160c3cc980c0ecb14",
+    "predictions.jsonl": "8af4dd2f5da99d64294299759355f523779bd70b2b027abd150e27260771e68c"
   }
 }
