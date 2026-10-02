@@ -1,0 +1,201 @@
+image_id,set,category,product,sample_index,seed,prompt,image_file,image_path,generation_model,resolution,width,height,num_inference_steps,guidance_scale
+sports_car_001,contrast_automobile_contemporary,sports_car,Sports car,1,20269504,sports car,sports_car_001.png,images/sports_car_001.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_002,contrast_automobile_contemporary,sports_car,Sports car,2,20269505,sports car,sports_car_002.png,images/sports_car_002.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_003,contrast_automobile_contemporary,sports_car,Sports car,3,20269506,sports car,sports_car_003.png,images/sports_car_003.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_004,contrast_automobile_contemporary,sports_car,Sports car,4,20269507,sports car,sports_car_004.png,images/sports_car_004.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_005,contrast_automobile_contemporary,sports_car,Sports car,5,20269508,sports car,sports_car_005.png,images/sports_car_005.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_006,contrast_automobile_contemporary,sports_car,Sports car,6,20269509,sports car,sports_car_006.png,images/sports_car_006.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_007,contrast_automobile_contemporary,sports_car,Sports car,7,20269510,sports car,sports_car_007.png,images/sports_car_007.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_008,contrast_automobile_contemporary,sports_car,Sports car,8,20269511,sports car,sports_car_008.png,images/sports_car_008.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_009,contrast_automobile_contemporary,sports_car,Sports car,9,20269512,sports car,sports_car_009.png,images/sports_car_009.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_010,contrast_automobile_contemporary,sports_car,Sports car,10,20269513,sports car,sports_car_010.png,images/sports_car_010.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_011,contrast_automobile_contemporary,sports_car,Sports car,11,20269514,sports car,sports_car_011.png,images/sports_car_011.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_012,contrast_automobile_contemporary,sports_car,Sports car,12,20269515,sports car,sports_car_012.png,images/sports_car_012.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_013,contrast_automobile_contemporary,sports_car,Sports car,13,20269516,sports car,sports_car_013.png,images/sports_car_013.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_014,contrast_automobile_contemporary,sports_car,Sports car,14,20269517,sports car,sports_car_014.png,images/sports_car_014.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_015,contrast_automobile_contemporary,sports_car,Sports car,15,20269518,sports car,sports_car_015.png,images/sports_car_015.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_016,contrast_automobile_contemporary,sports_car,Sports car,16,20269519,sports car,sports_car_016.png,images/sports_car_016.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_017,contrast_automobile_contemporary,sports_car,Sports car,17,20269520,sports car,sports_car_017.png,images/sports_car_017.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_018,contrast_automobile_contemporary,sports_car,Sports car,18,20269521,sports car,sports_car_018.png,images/sports_car_018.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_019,contrast_automobile_contemporary,sports_car,Sports car,19,20269522,sports car,sports_car_019.png,images/sports_car_019.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_020,contrast_automobile_contemporary,sports_car,Sports car,20,20269523,sports car,sports_car_020.png,images/sports_car_020.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_021,contrast_automobile_contemporary,sports_car,Sports car,21,20269524,sports car,sports_car_021.png,images/sports_car_021.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_022,contrast_automobile_contemporary,sports_car,Sports car,22,20269525,sports car,sports_car_022.png,images/sports_car_022.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_023,contrast_automobile_contemporary,sports_car,Sports car,23,20269526,sports car,sports_car_023.png,images/sports_car_023.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_024,contrast_automobile_contemporary,sports_car,Sports car,24,20269527,sports car,sports_car_024.png,images/sports_car_024.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sports_car_025,contrast_automobile_contemporary,sports_car,Sports car,25,20269528,sports car,sports_car_025.png,images/sports_car_025.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_001,contrast_automobile_historical,early_automobile,Early automobile,1,20261504,early automobile,early_automobile_001.png,images/early_automobile_001.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_002,contrast_automobile_historical,early_automobile,Early automobile,2,20261505,early automobile,early_automobile_002.png,images/early_automobile_002.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_003,contrast_automobile_historical,early_automobile,Early automobile,3,20261506,early automobile,early_automobile_003.png,images/early_automobile_003.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_004,contrast_automobile_historical,early_automobile,Early automobile,4,20261507,early automobile,early_automobile_004.png,images/early_automobile_004.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_005,contrast_automobile_historical,early_automobile,Early automobile,5,20261508,early automobile,early_automobile_005.png,images/early_automobile_005.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_006,contrast_automobile_historical,early_automobile,Early automobile,6,20261509,early automobile,early_automobile_006.png,images/early_automobile_006.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_007,contrast_automobile_historical,early_automobile,Early automobile,7,20261510,early automobile,early_automobile_007.png,images/early_automobile_007.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_008,contrast_automobile_historical,early_automobile,Early automobile,8,20261511,early automobile,early_automobile_008.png,images/early_automobile_008.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_009,contrast_automobile_historical,early_automobile,Early automobile,9,20261512,early automobile,early_automobile_009.png,images/early_automobile_009.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_010,contrast_automobile_historical,early_automobile,Early automobile,10,20261513,early automobile,early_automobile_010.png,images/early_automobile_010.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_011,contrast_automobile_historical,early_automobile,Early automobile,11,20261514,early automobile,early_automobile_011.png,images/early_automobile_011.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_012,contrast_automobile_historical,early_automobile,Early automobile,12,20261515,early automobile,early_automobile_012.png,images/early_automobile_012.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_013,contrast_automobile_historical,early_automobile,Early automobile,13,20261516,early automobile,early_automobile_013.png,images/early_automobile_013.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_014,contrast_automobile_historical,early_automobile,Early automobile,14,20261517,early automobile,early_automobile_014.png,images/early_automobile_014.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_015,contrast_automobile_historical,early_automobile,Early automobile,15,20261518,early automobile,early_automobile_015.png,images/early_automobile_015.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_016,contrast_automobile_historical,early_automobile,Early automobile,16,20261519,early automobile,early_automobile_016.png,images/early_automobile_016.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_017,contrast_automobile_historical,early_automobile,Early automobile,17,20261520,early automobile,early_automobile_017.png,images/early_automobile_017.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_018,contrast_automobile_historical,early_automobile,Early automobile,18,20261521,early automobile,early_automobile_018.png,images/early_automobile_018.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_019,contrast_automobile_historical,early_automobile,Early automobile,19,20261522,early automobile,early_automobile_019.png,images/early_automobile_019.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_020,contrast_automobile_historical,early_automobile,Early automobile,20,20261523,early automobile,early_automobile_020.png,images/early_automobile_020.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_021,contrast_automobile_historical,early_automobile,Early automobile,21,20261524,early automobile,early_automobile_021.png,images/early_automobile_021.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_022,contrast_automobile_historical,early_automobile,Early automobile,22,20261525,early automobile,early_automobile_022.png,images/early_automobile_022.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_023,contrast_automobile_historical,early_automobile,Early automobile,23,20261526,early automobile,early_automobile_023.png,images/early_automobile_023.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_024,contrast_automobile_historical,early_automobile,Early automobile,24,20261527,early automobile,early_automobile_024.png,images/early_automobile_024.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+early_automobile_025,contrast_automobile_historical,early_automobile,Early automobile,25,20261528,early automobile,early_automobile_025.png,images/early_automobile_025.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_001,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,1,20262504,vacuum cleaner,vacuum_cleaner_001.png,images/vacuum_cleaner_001.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_002,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,2,20262505,vacuum cleaner,vacuum_cleaner_002.png,images/vacuum_cleaner_002.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_003,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,3,20262506,vacuum cleaner,vacuum_cleaner_003.png,images/vacuum_cleaner_003.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_004,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,4,20262507,vacuum cleaner,vacuum_cleaner_004.png,images/vacuum_cleaner_004.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_005,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,5,20262508,vacuum cleaner,vacuum_cleaner_005.png,images/vacuum_cleaner_005.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_006,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,6,20262509,vacuum cleaner,vacuum_cleaner_006.png,images/vacuum_cleaner_006.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_007,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,7,20262510,vacuum cleaner,vacuum_cleaner_007.png,images/vacuum_cleaner_007.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_008,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,8,20262511,vacuum cleaner,vacuum_cleaner_008.png,images/vacuum_cleaner_008.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_009,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,9,20262512,vacuum cleaner,vacuum_cleaner_009.png,images/vacuum_cleaner_009.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_010,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,10,20262513,vacuum cleaner,vacuum_cleaner_010.png,images/vacuum_cleaner_010.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_011,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,11,20262514,vacuum cleaner,vacuum_cleaner_011.png,images/vacuum_cleaner_011.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_012,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,12,20262515,vacuum cleaner,vacuum_cleaner_012.png,images/vacuum_cleaner_012.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_013,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,13,20262516,vacuum cleaner,vacuum_cleaner_013.png,images/vacuum_cleaner_013.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_014,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,14,20262517,vacuum cleaner,vacuum_cleaner_014.png,images/vacuum_cleaner_014.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_015,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,15,20262518,vacuum cleaner,vacuum_cleaner_015.png,images/vacuum_cleaner_015.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_016,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,16,20262519,vacuum cleaner,vacuum_cleaner_016.png,images/vacuum_cleaner_016.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_017,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,17,20262520,vacuum cleaner,vacuum_cleaner_017.png,images/vacuum_cleaner_017.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_018,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,18,20262521,vacuum cleaner,vacuum_cleaner_018.png,images/vacuum_cleaner_018.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_019,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,19,20262522,vacuum cleaner,vacuum_cleaner_019.png,images/vacuum_cleaner_019.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_020,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,20,20262523,vacuum cleaner,vacuum_cleaner_020.png,images/vacuum_cleaner_020.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_021,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,21,20262524,vacuum cleaner,vacuum_cleaner_021.png,images/vacuum_cleaner_021.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_022,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,22,20262525,vacuum cleaner,vacuum_cleaner_022.png,images/vacuum_cleaner_022.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_023,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,23,20262526,vacuum cleaner,vacuum_cleaner_023.png,images/vacuum_cleaner_023.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_024,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,24,20262527,vacuum cleaner,vacuum_cleaner_024.png,images/vacuum_cleaner_024.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+vacuum_cleaner_025,contrast_cleaning_electric,vacuum_cleaner,Vacuum cleaner,25,20262528,vacuum cleaner,vacuum_cleaner_025.png,images/vacuum_cleaner_025.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_001,contrast_cleaning_manual,broom,Broom,1,20270504,broom,broom_001.png,images/broom_001.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_002,contrast_cleaning_manual,broom,Broom,2,20270505,broom,broom_002.png,images/broom_002.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_003,contrast_cleaning_manual,broom,Broom,3,20270506,broom,broom_003.png,images/broom_003.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_004,contrast_cleaning_manual,broom,Broom,4,20270507,broom,broom_004.png,images/broom_004.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_005,contrast_cleaning_manual,broom,Broom,5,20270508,broom,broom_005.png,images/broom_005.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_006,contrast_cleaning_manual,broom,Broom,6,20270509,broom,broom_006.png,images/broom_006.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_007,contrast_cleaning_manual,broom,Broom,7,20270510,broom,broom_007.png,images/broom_007.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_008,contrast_cleaning_manual,broom,Broom,8,20270511,broom,broom_008.png,images/broom_008.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_009,contrast_cleaning_manual,broom,Broom,9,20270512,broom,broom_009.png,images/broom_009.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_010,contrast_cleaning_manual,broom,Broom,10,20270513,broom,broom_010.png,images/broom_010.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_011,contrast_cleaning_manual,broom,Broom,11,20270514,broom,broom_011.png,images/broom_011.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_012,contrast_cleaning_manual,broom,Broom,12,20270515,broom,broom_012.png,images/broom_012.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_013,contrast_cleaning_manual,broom,Broom,13,20270516,broom,broom_013.png,images/broom_013.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_014,contrast_cleaning_manual,broom,Broom,14,20270517,broom,broom_014.png,images/broom_014.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_015,contrast_cleaning_manual,broom,Broom,15,20270518,broom,broom_015.png,images/broom_015.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_016,contrast_cleaning_manual,broom,Broom,16,20270519,broom,broom_016.png,images/broom_016.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_017,contrast_cleaning_manual,broom,Broom,17,20270520,broom,broom_017.png,images/broom_017.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_018,contrast_cleaning_manual,broom,Broom,18,20270521,broom,broom_018.png,images/broom_018.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_019,contrast_cleaning_manual,broom,Broom,19,20270522,broom,broom_019.png,images/broom_019.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_020,contrast_cleaning_manual,broom,Broom,20,20270523,broom,broom_020.png,images/broom_020.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_021,contrast_cleaning_manual,broom,Broom,21,20270524,broom,broom_021.png,images/broom_021.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_022,contrast_cleaning_manual,broom,Broom,22,20270525,broom,broom_022.png,images/broom_022.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_023,contrast_cleaning_manual,broom,Broom,23,20270526,broom,broom_023.png,images/broom_023.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_024,contrast_cleaning_manual,broom,Broom,24,20270527,broom,broom_024.png,images/broom_024.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+broom_025,contrast_cleaning_manual,broom,Broom,25,20270528,broom,broom_025.png,images/broom_025.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_001,single_appliance,electric_kettle,Electric kettle,1,20263504,electric kettle,electric_kettle_001.png,images/electric_kettle_001.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_002,single_appliance,electric_kettle,Electric kettle,2,20263505,electric kettle,electric_kettle_002.png,images/electric_kettle_002.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_003,single_appliance,electric_kettle,Electric kettle,3,20263506,electric kettle,electric_kettle_003.png,images/electric_kettle_003.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_004,single_appliance,electric_kettle,Electric kettle,4,20263507,electric kettle,electric_kettle_004.png,images/electric_kettle_004.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_005,single_appliance,electric_kettle,Electric kettle,5,20263508,electric kettle,electric_kettle_005.png,images/electric_kettle_005.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_006,single_appliance,electric_kettle,Electric kettle,6,20263509,electric kettle,electric_kettle_006.png,images/electric_kettle_006.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_007,single_appliance,electric_kettle,Electric kettle,7,20263510,electric kettle,electric_kettle_007.png,images/electric_kettle_007.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_008,single_appliance,electric_kettle,Electric kettle,8,20263511,electric kettle,electric_kettle_008.png,images/electric_kettle_008.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_009,single_appliance,electric_kettle,Electric kettle,9,20263512,electric kettle,electric_kettle_009.png,images/electric_kettle_009.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_010,single_appliance,electric_kettle,Electric kettle,10,20263513,electric kettle,electric_kettle_010.png,images/electric_kettle_010.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_011,single_appliance,electric_kettle,Electric kettle,11,20263514,electric kettle,electric_kettle_011.png,images/electric_kettle_011.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_012,single_appliance,electric_kettle,Electric kettle,12,20263515,electric kettle,electric_kettle_012.png,images/electric_kettle_012.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_013,single_appliance,electric_kettle,Electric kettle,13,20263516,electric kettle,electric_kettle_013.png,images/electric_kettle_013.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_014,single_appliance,electric_kettle,Electric kettle,14,20263517,electric kettle,electric_kettle_014.png,images/electric_kettle_014.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_015,single_appliance,electric_kettle,Electric kettle,15,20263518,electric kettle,electric_kettle_015.png,images/electric_kettle_015.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_016,single_appliance,electric_kettle,Electric kettle,16,20263519,electric kettle,electric_kettle_016.png,images/electric_kettle_016.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_017,single_appliance,electric_kettle,Electric kettle,17,20263520,electric kettle,electric_kettle_017.png,images/electric_kettle_017.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_018,single_appliance,electric_kettle,Electric kettle,18,20263521,electric kettle,electric_kettle_018.png,images/electric_kettle_018.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_019,single_appliance,electric_kettle,Electric kettle,19,20263522,electric kettle,electric_kettle_019.png,images/electric_kettle_019.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_020,single_appliance,electric_kettle,Electric kettle,20,20263523,electric kettle,electric_kettle_020.png,images/electric_kettle_020.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_021,single_appliance,electric_kettle,Electric kettle,21,20263524,electric kettle,electric_kettle_021.png,images/electric_kettle_021.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_022,single_appliance,electric_kettle,Electric kettle,22,20263525,electric kettle,electric_kettle_022.png,images/electric_kettle_022.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_023,single_appliance,electric_kettle,Electric kettle,23,20263526,electric kettle,electric_kettle_023.png,images/electric_kettle_023.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_024,single_appliance,electric_kettle,Electric kettle,24,20263527,electric kettle,electric_kettle_024.png,images/electric_kettle_024.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+electric_kettle_025,single_appliance,electric_kettle,Electric kettle,25,20263528,electric kettle,electric_kettle_025.png,images/electric_kettle_025.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_001,single_furniture,lounge_chair,Lounge chair,1,20264504,lounge chair,lounge_chair_001.png,images/lounge_chair_001.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_002,single_furniture,lounge_chair,Lounge chair,2,20264505,lounge chair,lounge_chair_002.png,images/lounge_chair_002.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_003,single_furniture,lounge_chair,Lounge chair,3,20264506,lounge chair,lounge_chair_003.png,images/lounge_chair_003.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_004,single_furniture,lounge_chair,Lounge chair,4,20264507,lounge chair,lounge_chair_004.png,images/lounge_chair_004.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_005,single_furniture,lounge_chair,Lounge chair,5,20264508,lounge chair,lounge_chair_005.png,images/lounge_chair_005.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_006,single_furniture,lounge_chair,Lounge chair,6,20264509,lounge chair,lounge_chair_006.png,images/lounge_chair_006.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_007,single_furniture,lounge_chair,Lounge chair,7,20264510,lounge chair,lounge_chair_007.png,images/lounge_chair_007.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_008,single_furniture,lounge_chair,Lounge chair,8,20264511,lounge chair,lounge_chair_008.png,images/lounge_chair_008.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_009,single_furniture,lounge_chair,Lounge chair,9,20264512,lounge chair,lounge_chair_009.png,images/lounge_chair_009.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_010,single_furniture,lounge_chair,Lounge chair,10,20264513,lounge chair,lounge_chair_010.png,images/lounge_chair_010.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_011,single_furniture,lounge_chair,Lounge chair,11,20264514,lounge chair,lounge_chair_011.png,images/lounge_chair_011.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_012,single_furniture,lounge_chair,Lounge chair,12,20264515,lounge chair,lounge_chair_012.png,images/lounge_chair_012.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_013,single_furniture,lounge_chair,Lounge chair,13,20264516,lounge chair,lounge_chair_013.png,images/lounge_chair_013.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_014,single_furniture,lounge_chair,Lounge chair,14,20264517,lounge chair,lounge_chair_014.png,images/lounge_chair_014.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_015,single_furniture,lounge_chair,Lounge chair,15,20264518,lounge chair,lounge_chair_015.png,images/lounge_chair_015.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_016,single_furniture,lounge_chair,Lounge chair,16,20264519,lounge chair,lounge_chair_016.png,images/lounge_chair_016.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_017,single_furniture,lounge_chair,Lounge chair,17,20264520,lounge chair,lounge_chair_017.png,images/lounge_chair_017.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_018,single_furniture,lounge_chair,Lounge chair,18,20264521,lounge chair,lounge_chair_018.png,images/lounge_chair_018.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_019,single_furniture,lounge_chair,Lounge chair,19,20264522,lounge chair,lounge_chair_019.png,images/lounge_chair_019.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_020,single_furniture,lounge_chair,Lounge chair,20,20264523,lounge chair,lounge_chair_020.png,images/lounge_chair_020.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_021,single_furniture,lounge_chair,Lounge chair,21,20264524,lounge chair,lounge_chair_021.png,images/lounge_chair_021.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_022,single_furniture,lounge_chair,Lounge chair,22,20264525,lounge chair,lounge_chair_022.png,images/lounge_chair_022.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_023,single_furniture,lounge_chair,Lounge chair,23,20264526,lounge chair,lounge_chair_023.png,images/lounge_chair_023.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_024,single_furniture,lounge_chair,Lounge chair,24,20264527,lounge chair,lounge_chair_024.png,images/lounge_chair_024.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+lounge_chair_025,single_furniture,lounge_chair,Lounge chair,25,20264528,lounge chair,lounge_chair_025.png,images/lounge_chair_025.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_001,single_lighting,desk_lamp,Desk lamp,1,20265504,desk lamp,desk_lamp_001.png,images/desk_lamp_001.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_002,single_lighting,desk_lamp,Desk lamp,2,20265505,desk lamp,desk_lamp_002.png,images/desk_lamp_002.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_003,single_lighting,desk_lamp,Desk lamp,3,20265506,desk lamp,desk_lamp_003.png,images/desk_lamp_003.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_004,single_lighting,desk_lamp,Desk lamp,4,20265507,desk lamp,desk_lamp_004.png,images/desk_lamp_004.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_005,single_lighting,desk_lamp,Desk lamp,5,20265508,desk lamp,desk_lamp_005.png,images/desk_lamp_005.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_006,single_lighting,desk_lamp,Desk lamp,6,20265509,desk lamp,desk_lamp_006.png,images/desk_lamp_006.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_007,single_lighting,desk_lamp,Desk lamp,7,20265510,desk lamp,desk_lamp_007.png,images/desk_lamp_007.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_008,single_lighting,desk_lamp,Desk lamp,8,20265511,desk lamp,desk_lamp_008.png,images/desk_lamp_008.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_009,single_lighting,desk_lamp,Desk lamp,9,20265512,desk lamp,desk_lamp_009.png,images/desk_lamp_009.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_010,single_lighting,desk_lamp,Desk lamp,10,20265513,desk lamp,desk_lamp_010.png,images/desk_lamp_010.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_011,single_lighting,desk_lamp,Desk lamp,11,20265514,desk lamp,desk_lamp_011.png,images/desk_lamp_011.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_012,single_lighting,desk_lamp,Desk lamp,12,20265515,desk lamp,desk_lamp_012.png,images/desk_lamp_012.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_013,single_lighting,desk_lamp,Desk lamp,13,20265516,desk lamp,desk_lamp_013.png,images/desk_lamp_013.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_014,single_lighting,desk_lamp,Desk lamp,14,20265517,desk lamp,desk_lamp_014.png,images/desk_lamp_014.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_015,single_lighting,desk_lamp,Desk lamp,15,20265518,desk lamp,desk_lamp_015.png,images/desk_lamp_015.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_016,single_lighting,desk_lamp,Desk lamp,16,20265519,desk lamp,desk_lamp_016.png,images/desk_lamp_016.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_017,single_lighting,desk_lamp,Desk lamp,17,20265520,desk lamp,desk_lamp_017.png,images/desk_lamp_017.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_018,single_lighting,desk_lamp,Desk lamp,18,20265521,desk lamp,desk_lamp_018.png,images/desk_lamp_018.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_019,single_lighting,desk_lamp,Desk lamp,19,20265522,desk lamp,desk_lamp_019.png,images/desk_lamp_019.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_020,single_lighting,desk_lamp,Desk lamp,20,20265523,desk lamp,desk_lamp_020.png,images/desk_lamp_020.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_021,single_lighting,desk_lamp,Desk lamp,21,20265524,desk lamp,desk_lamp_021.png,images/desk_lamp_021.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_022,single_lighting,desk_lamp,Desk lamp,22,20265525,desk lamp,desk_lamp_022.png,images/desk_lamp_022.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_023,single_lighting,desk_lamp,Desk lamp,23,20265526,desk lamp,desk_lamp_023.png,images/desk_lamp_023.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_024,single_lighting,desk_lamp,Desk lamp,24,20265527,desk lamp,desk_lamp_024.png,images/desk_lamp_024.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+desk_lamp_025,single_lighting,desk_lamp,Desk lamp,25,20265528,desk lamp,desk_lamp_025.png,images/desk_lamp_025.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_001,single_wearable,sneakers,Sneakers,1,20267504,sneakers,sneakers_001.png,images/sneakers_001.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_002,single_wearable,sneakers,Sneakers,2,20267505,sneakers,sneakers_002.png,images/sneakers_002.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_003,single_wearable,sneakers,Sneakers,3,20267506,sneakers,sneakers_003.png,images/sneakers_003.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_004,single_wearable,sneakers,Sneakers,4,20267507,sneakers,sneakers_004.png,images/sneakers_004.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_005,single_wearable,sneakers,Sneakers,5,20267508,sneakers,sneakers_005.png,images/sneakers_005.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_006,single_wearable,sneakers,Sneakers,6,20267509,sneakers,sneakers_006.png,images/sneakers_006.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_007,single_wearable,sneakers,Sneakers,7,20267510,sneakers,sneakers_007.png,images/sneakers_007.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_008,single_wearable,sneakers,Sneakers,8,20267511,sneakers,sneakers_008.png,images/sneakers_008.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_009,single_wearable,sneakers,Sneakers,9,20267512,sneakers,sneakers_009.png,images/sneakers_009.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_010,single_wearable,sneakers,Sneakers,10,20267513,sneakers,sneakers_010.png,images/sneakers_010.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_011,single_wearable,sneakers,Sneakers,11,20267514,sneakers,sneakers_011.png,images/sneakers_011.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_012,single_wearable,sneakers,Sneakers,12,20267515,sneakers,sneakers_012.png,images/sneakers_012.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_013,single_wearable,sneakers,Sneakers,13,20267516,sneakers,sneakers_013.png,images/sneakers_013.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_014,single_wearable,sneakers,Sneakers,14,20267517,sneakers,sneakers_014.png,images/sneakers_014.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_015,single_wearable,sneakers,Sneakers,15,20267518,sneakers,sneakers_015.png,images/sneakers_015.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_016,single_wearable,sneakers,Sneakers,16,20267519,sneakers,sneakers_016.png,images/sneakers_016.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_017,single_wearable,sneakers,Sneakers,17,20267520,sneakers,sneakers_017.png,images/sneakers_017.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_018,single_wearable,sneakers,Sneakers,18,20267521,sneakers,sneakers_018.png,images/sneakers_018.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_019,single_wearable,sneakers,Sneakers,19,20267522,sneakers,sneakers_019.png,images/sneakers_019.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_020,single_wearable,sneakers,Sneakers,20,20267523,sneakers,sneakers_020.png,images/sneakers_020.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_021,single_wearable,sneakers,Sneakers,21,20267524,sneakers,sneakers_021.png,images/sneakers_021.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_022,single_wearable,sneakers,Sneakers,22,20267525,sneakers,sneakers_022.png,images/sneakers_022.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_023,single_wearable,sneakers,Sneakers,23,20267526,sneakers,sneakers_023.png,images/sneakers_023.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_024,single_wearable,sneakers,Sneakers,24,20267527,sneakers,sneakers_024.png,images/sneakers_024.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5
+sneakers_025,single_wearable,sneakers,Sneakers,25,20267528,sneakers,sneakers_025.png,images/sneakers_025.png,FLUX.2-klein-base-9B,768x768,768,768,12,3.5

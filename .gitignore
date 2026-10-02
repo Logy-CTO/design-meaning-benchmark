@@ -1,0 +1,10 @@
+images/
+reproduced_results/
+reproduced_figures/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.safetensors
+*.bin
+*.pt

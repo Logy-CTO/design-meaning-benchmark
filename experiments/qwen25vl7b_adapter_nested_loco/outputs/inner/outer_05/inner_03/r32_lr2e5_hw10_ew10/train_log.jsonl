@@ -1,0 +1,7 @@
+{"epoch": 1, "global_step": 19, "train_objective": 1.3053785999615988, "validation_objective": 1.692523378592271}
+{"epoch": 2, "global_step": 38, "train_objective": 1.0859069919586182, "validation_objective": 1.6022862195968628}
+{"epoch": 3, "global_step": 57, "train_objective": 1.0584496533870698, "validation_objective": 1.4607629225804255}
+{"epoch": 4, "global_step": 76, "train_objective": 1.0500327146053314, "validation_objective": 1.6097389184511626}
+{"epoch": 5, "global_step": 95, "train_objective": 1.019347271124522, "validation_objective": 1.5067812020962055}
+{"epoch": 6, "global_step": 114, "train_objective": 1.013316923379898, "validation_objective": 1.4758132237654467}
+{"epoch": 7, "global_step": 133, "train_objective": 0.9955528569221497, "validation_objective": 1.544830138866718}

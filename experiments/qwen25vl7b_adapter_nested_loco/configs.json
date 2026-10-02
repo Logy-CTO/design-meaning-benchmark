@@ -1,0 +1,35 @@
+[
+  {
+    "config_id": "r16_lr2e5_hw00_ew05",
+    "rank": 16,
+    "alpha": 32,
+    "learning_rate": 2e-05,
+    "dropout": 0.05,
+    "max_epochs": 18,
+    "hard_weight": 0.0,
+    "entropy_weight": 0.05,
+    "source_run": "soft_r16_lr2e5_hw00_ew05_e18"
+  },
+  {
+    "config_id": "r32_lr2e5_hw10_ew10",
+    "rank": 32,
+    "alpha": 64,
+    "learning_rate": 2e-05,
+    "dropout": 0.1,
+    "max_epochs": 20,
+    "hard_weight": 0.1,
+    "entropy_weight": 0.1,
+    "source_run": "soft_r32_lr2e5_hw10_ew10_e20"
+  },
+  {
+    "config_id": "r32_lr5e5_hw20_ew10",
+    "rank": 32,
+    "alpha": 64,
+    "learning_rate": 5e-05,
+    "dropout": 0.1,
+    "max_epochs": 18,
+    "hard_weight": 0.2,
+    "entropy_weight": 0.1,
+    "source_run": "soft_r32_lr5e5_hw20_ew10_e18"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "pairwise_seed_agreement": 0.8740000000000001,
+  "pairwise_seed_agreement_ci95_low": 0.8490000000000001,
+  "pairwise_seed_agreement_ci95_high": 0.9,
+  "mean_modal_fraction": 0.924,
+  "mean_modal_fraction_ci95_low": 0.9079999999999999,
+  "mean_modal_fraction_ci95_high": 0.94,
+  "all_five_same_fraction": 0.75,
+  "all_five_same_fraction_ci95_low": 0.7,
+  "all_five_same_fraction_ci95_high": 0.8,
+  "mean_normalized_entropy": 0.09167163666018524,
+  "mean_normalized_entropy_ci95_low": 0.07296245147569662,
+  "mean_normalized_entropy_ci95_high": 0.1094179632027661,
+  "canonical_matches_stochastic_mode_fraction": 0.93,
+  "canonical_matches_stochastic_mode_fraction_ci95_low": 0.895,
+  "canonical_matches_stochastic_mode_fraction_ci95_high": 0.96,
+  "n_images": 200,
+  "n_stochastic_draws_per_image": 5
+}

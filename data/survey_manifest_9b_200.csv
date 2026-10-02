@@ -1,0 +1,201 @@
+image_id,prompt_slug,product,product_ko,sample_index,seed,image_file,image_path,generation_model,resolution,prompt,set,width,height
+early_automobile_001,early_automobile,Early automobile,초기 자동차,1,20261504,early_automobile_001.png,images/early_automobile_001.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_002,early_automobile,Early automobile,초기 자동차,2,20261505,early_automobile_002.png,images/early_automobile_002.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_003,early_automobile,Early automobile,초기 자동차,3,20261506,early_automobile_003.png,images/early_automobile_003.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_004,early_automobile,Early automobile,초기 자동차,4,20261507,early_automobile_004.png,images/early_automobile_004.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_005,early_automobile,Early automobile,초기 자동차,5,20261508,early_automobile_005.png,images/early_automobile_005.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_006,early_automobile,Early automobile,초기 자동차,6,20261509,early_automobile_006.png,images/early_automobile_006.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_007,early_automobile,Early automobile,초기 자동차,7,20261510,early_automobile_007.png,images/early_automobile_007.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_008,early_automobile,Early automobile,초기 자동차,8,20261511,early_automobile_008.png,images/early_automobile_008.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_009,early_automobile,Early automobile,초기 자동차,9,20261512,early_automobile_009.png,images/early_automobile_009.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_010,early_automobile,Early automobile,초기 자동차,10,20261513,early_automobile_010.png,images/early_automobile_010.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_011,early_automobile,Early automobile,초기 자동차,11,20261514,early_automobile_011.png,images/early_automobile_011.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_012,early_automobile,Early automobile,초기 자동차,12,20261515,early_automobile_012.png,images/early_automobile_012.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_013,early_automobile,Early automobile,초기 자동차,13,20261516,early_automobile_013.png,images/early_automobile_013.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_014,early_automobile,Early automobile,초기 자동차,14,20261517,early_automobile_014.png,images/early_automobile_014.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_015,early_automobile,Early automobile,초기 자동차,15,20261518,early_automobile_015.png,images/early_automobile_015.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_016,early_automobile,Early automobile,초기 자동차,16,20261519,early_automobile_016.png,images/early_automobile_016.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_017,early_automobile,Early automobile,초기 자동차,17,20261520,early_automobile_017.png,images/early_automobile_017.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_018,early_automobile,Early automobile,초기 자동차,18,20261521,early_automobile_018.png,images/early_automobile_018.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_019,early_automobile,Early automobile,초기 자동차,19,20261522,early_automobile_019.png,images/early_automobile_019.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_020,early_automobile,Early automobile,초기 자동차,20,20261523,early_automobile_020.png,images/early_automobile_020.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_021,early_automobile,Early automobile,초기 자동차,21,20261524,early_automobile_021.png,images/early_automobile_021.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_022,early_automobile,Early automobile,초기 자동차,22,20261525,early_automobile_022.png,images/early_automobile_022.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_023,early_automobile,Early automobile,초기 자동차,23,20261526,early_automobile_023.png,images/early_automobile_023.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_024,early_automobile,Early automobile,초기 자동차,24,20261527,early_automobile_024.png,images/early_automobile_024.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+early_automobile_025,early_automobile,Early automobile,초기 자동차,25,20261528,early_automobile_025.png,images/early_automobile_025.png,FLUX.2-klein-base-9B,768x768,early automobile,contrast_automobile_historical,768,768
+sports_car_001,sports_car,Sports car,스포츠카,1,20269504,sports_car_001.png,images/sports_car_001.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_002,sports_car,Sports car,스포츠카,2,20269505,sports_car_002.png,images/sports_car_002.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_003,sports_car,Sports car,스포츠카,3,20269506,sports_car_003.png,images/sports_car_003.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_004,sports_car,Sports car,스포츠카,4,20269507,sports_car_004.png,images/sports_car_004.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_005,sports_car,Sports car,스포츠카,5,20269508,sports_car_005.png,images/sports_car_005.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_006,sports_car,Sports car,스포츠카,6,20269509,sports_car_006.png,images/sports_car_006.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_007,sports_car,Sports car,스포츠카,7,20269510,sports_car_007.png,images/sports_car_007.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_008,sports_car,Sports car,스포츠카,8,20269511,sports_car_008.png,images/sports_car_008.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_009,sports_car,Sports car,스포츠카,9,20269512,sports_car_009.png,images/sports_car_009.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_010,sports_car,Sports car,스포츠카,10,20269513,sports_car_010.png,images/sports_car_010.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_011,sports_car,Sports car,스포츠카,11,20269514,sports_car_011.png,images/sports_car_011.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_012,sports_car,Sports car,스포츠카,12,20269515,sports_car_012.png,images/sports_car_012.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_013,sports_car,Sports car,스포츠카,13,20269516,sports_car_013.png,images/sports_car_013.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_014,sports_car,Sports car,스포츠카,14,20269517,sports_car_014.png,images/sports_car_014.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_015,sports_car,Sports car,스포츠카,15,20269518,sports_car_015.png,images/sports_car_015.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_016,sports_car,Sports car,스포츠카,16,20269519,sports_car_016.png,images/sports_car_016.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_017,sports_car,Sports car,스포츠카,17,20269520,sports_car_017.png,images/sports_car_017.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_018,sports_car,Sports car,스포츠카,18,20269521,sports_car_018.png,images/sports_car_018.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_019,sports_car,Sports car,스포츠카,19,20269522,sports_car_019.png,images/sports_car_019.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_020,sports_car,Sports car,스포츠카,20,20269523,sports_car_020.png,images/sports_car_020.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_021,sports_car,Sports car,스포츠카,21,20269524,sports_car_021.png,images/sports_car_021.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_022,sports_car,Sports car,스포츠카,22,20269525,sports_car_022.png,images/sports_car_022.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_023,sports_car,Sports car,스포츠카,23,20269526,sports_car_023.png,images/sports_car_023.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_024,sports_car,Sports car,스포츠카,24,20269527,sports_car_024.png,images/sports_car_024.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+sports_car_025,sports_car,Sports car,스포츠카,25,20269528,sports_car_025.png,images/sports_car_025.png,FLUX.2-klein-base-9B,768x768,sports car,contrast_automobile_contemporary,768,768
+broom_001,broom,Broom,빗자루,1,20270504,broom_001.png,images/broom_001.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_002,broom,Broom,빗자루,2,20270505,broom_002.png,images/broom_002.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_003,broom,Broom,빗자루,3,20270506,broom_003.png,images/broom_003.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_004,broom,Broom,빗자루,4,20270507,broom_004.png,images/broom_004.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_005,broom,Broom,빗자루,5,20270508,broom_005.png,images/broom_005.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_006,broom,Broom,빗자루,6,20270509,broom_006.png,images/broom_006.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_007,broom,Broom,빗자루,7,20270510,broom_007.png,images/broom_007.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_008,broom,Broom,빗자루,8,20270511,broom_008.png,images/broom_008.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_009,broom,Broom,빗자루,9,20270512,broom_009.png,images/broom_009.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_010,broom,Broom,빗자루,10,20270513,broom_010.png,images/broom_010.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_011,broom,Broom,빗자루,11,20270514,broom_011.png,images/broom_011.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_012,broom,Broom,빗자루,12,20270515,broom_012.png,images/broom_012.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_013,broom,Broom,빗자루,13,20270516,broom_013.png,images/broom_013.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_014,broom,Broom,빗자루,14,20270517,broom_014.png,images/broom_014.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_015,broom,Broom,빗자루,15,20270518,broom_015.png,images/broom_015.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_016,broom,Broom,빗자루,16,20270519,broom_016.png,images/broom_016.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_017,broom,Broom,빗자루,17,20270520,broom_017.png,images/broom_017.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_018,broom,Broom,빗자루,18,20270521,broom_018.png,images/broom_018.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_019,broom,Broom,빗자루,19,20270522,broom_019.png,images/broom_019.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_020,broom,Broom,빗자루,20,20270523,broom_020.png,images/broom_020.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_021,broom,Broom,빗자루,21,20270524,broom_021.png,images/broom_021.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_022,broom,Broom,빗자루,22,20270525,broom_022.png,images/broom_022.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_023,broom,Broom,빗자루,23,20270526,broom_023.png,images/broom_023.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_024,broom,Broom,빗자루,24,20270527,broom_024.png,images/broom_024.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+broom_025,broom,Broom,빗자루,25,20270528,broom_025.png,images/broom_025.png,FLUX.2-klein-base-9B,768x768,broom,contrast_cleaning_manual,768,768
+vacuum_cleaner_001,vacuum_cleaner,Vacuum cleaner,진공청소기,1,20262504,vacuum_cleaner_001.png,images/vacuum_cleaner_001.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_002,vacuum_cleaner,Vacuum cleaner,진공청소기,2,20262505,vacuum_cleaner_002.png,images/vacuum_cleaner_002.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_003,vacuum_cleaner,Vacuum cleaner,진공청소기,3,20262506,vacuum_cleaner_003.png,images/vacuum_cleaner_003.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_004,vacuum_cleaner,Vacuum cleaner,진공청소기,4,20262507,vacuum_cleaner_004.png,images/vacuum_cleaner_004.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_005,vacuum_cleaner,Vacuum cleaner,진공청소기,5,20262508,vacuum_cleaner_005.png,images/vacuum_cleaner_005.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_006,vacuum_cleaner,Vacuum cleaner,진공청소기,6,20262509,vacuum_cleaner_006.png,images/vacuum_cleaner_006.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_007,vacuum_cleaner,Vacuum cleaner,진공청소기,7,20262510,vacuum_cleaner_007.png,images/vacuum_cleaner_007.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_008,vacuum_cleaner,Vacuum cleaner,진공청소기,8,20262511,vacuum_cleaner_008.png,images/vacuum_cleaner_008.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_009,vacuum_cleaner,Vacuum cleaner,진공청소기,9,20262512,vacuum_cleaner_009.png,images/vacuum_cleaner_009.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_010,vacuum_cleaner,Vacuum cleaner,진공청소기,10,20262513,vacuum_cleaner_010.png,images/vacuum_cleaner_010.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_011,vacuum_cleaner,Vacuum cleaner,진공청소기,11,20262514,vacuum_cleaner_011.png,images/vacuum_cleaner_011.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_012,vacuum_cleaner,Vacuum cleaner,진공청소기,12,20262515,vacuum_cleaner_012.png,images/vacuum_cleaner_012.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_013,vacuum_cleaner,Vacuum cleaner,진공청소기,13,20262516,vacuum_cleaner_013.png,images/vacuum_cleaner_013.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_014,vacuum_cleaner,Vacuum cleaner,진공청소기,14,20262517,vacuum_cleaner_014.png,images/vacuum_cleaner_014.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_015,vacuum_cleaner,Vacuum cleaner,진공청소기,15,20262518,vacuum_cleaner_015.png,images/vacuum_cleaner_015.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_016,vacuum_cleaner,Vacuum cleaner,진공청소기,16,20262519,vacuum_cleaner_016.png,images/vacuum_cleaner_016.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_017,vacuum_cleaner,Vacuum cleaner,진공청소기,17,20262520,vacuum_cleaner_017.png,images/vacuum_cleaner_017.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_018,vacuum_cleaner,Vacuum cleaner,진공청소기,18,20262521,vacuum_cleaner_018.png,images/vacuum_cleaner_018.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_019,vacuum_cleaner,Vacuum cleaner,진공청소기,19,20262522,vacuum_cleaner_019.png,images/vacuum_cleaner_019.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_020,vacuum_cleaner,Vacuum cleaner,진공청소기,20,20262523,vacuum_cleaner_020.png,images/vacuum_cleaner_020.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_021,vacuum_cleaner,Vacuum cleaner,진공청소기,21,20262524,vacuum_cleaner_021.png,images/vacuum_cleaner_021.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_022,vacuum_cleaner,Vacuum cleaner,진공청소기,22,20262525,vacuum_cleaner_022.png,images/vacuum_cleaner_022.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_023,vacuum_cleaner,Vacuum cleaner,진공청소기,23,20262526,vacuum_cleaner_023.png,images/vacuum_cleaner_023.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_024,vacuum_cleaner,Vacuum cleaner,진공청소기,24,20262527,vacuum_cleaner_024.png,images/vacuum_cleaner_024.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+vacuum_cleaner_025,vacuum_cleaner,Vacuum cleaner,진공청소기,25,20262528,vacuum_cleaner_025.png,images/vacuum_cleaner_025.png,FLUX.2-klein-base-9B,768x768,vacuum cleaner,contrast_cleaning_electric,768,768
+desk_lamp_001,desk_lamp,Desk lamp,데스크 램프,1,20265504,desk_lamp_001.png,images/desk_lamp_001.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_002,desk_lamp,Desk lamp,데스크 램프,2,20265505,desk_lamp_002.png,images/desk_lamp_002.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_003,desk_lamp,Desk lamp,데스크 램프,3,20265506,desk_lamp_003.png,images/desk_lamp_003.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_004,desk_lamp,Desk lamp,데스크 램프,4,20265507,desk_lamp_004.png,images/desk_lamp_004.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_005,desk_lamp,Desk lamp,데스크 램프,5,20265508,desk_lamp_005.png,images/desk_lamp_005.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_006,desk_lamp,Desk lamp,데스크 램프,6,20265509,desk_lamp_006.png,images/desk_lamp_006.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_007,desk_lamp,Desk lamp,데스크 램프,7,20265510,desk_lamp_007.png,images/desk_lamp_007.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_008,desk_lamp,Desk lamp,데스크 램프,8,20265511,desk_lamp_008.png,images/desk_lamp_008.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_009,desk_lamp,Desk lamp,데스크 램프,9,20265512,desk_lamp_009.png,images/desk_lamp_009.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_010,desk_lamp,Desk lamp,데스크 램프,10,20265513,desk_lamp_010.png,images/desk_lamp_010.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_011,desk_lamp,Desk lamp,데스크 램프,11,20265514,desk_lamp_011.png,images/desk_lamp_011.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_012,desk_lamp,Desk lamp,데스크 램프,12,20265515,desk_lamp_012.png,images/desk_lamp_012.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_013,desk_lamp,Desk lamp,데스크 램프,13,20265516,desk_lamp_013.png,images/desk_lamp_013.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_014,desk_lamp,Desk lamp,데스크 램프,14,20265517,desk_lamp_014.png,images/desk_lamp_014.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_015,desk_lamp,Desk lamp,데스크 램프,15,20265518,desk_lamp_015.png,images/desk_lamp_015.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_016,desk_lamp,Desk lamp,데스크 램프,16,20265519,desk_lamp_016.png,images/desk_lamp_016.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_017,desk_lamp,Desk lamp,데스크 램프,17,20265520,desk_lamp_017.png,images/desk_lamp_017.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_018,desk_lamp,Desk lamp,데스크 램프,18,20265521,desk_lamp_018.png,images/desk_lamp_018.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_019,desk_lamp,Desk lamp,데스크 램프,19,20265522,desk_lamp_019.png,images/desk_lamp_019.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_020,desk_lamp,Desk lamp,데스크 램프,20,20265523,desk_lamp_020.png,images/desk_lamp_020.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_021,desk_lamp,Desk lamp,데스크 램프,21,20265524,desk_lamp_021.png,images/desk_lamp_021.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_022,desk_lamp,Desk lamp,데스크 램프,22,20265525,desk_lamp_022.png,images/desk_lamp_022.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_023,desk_lamp,Desk lamp,데스크 램프,23,20265526,desk_lamp_023.png,images/desk_lamp_023.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_024,desk_lamp,Desk lamp,데스크 램프,24,20265527,desk_lamp_024.png,images/desk_lamp_024.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+desk_lamp_025,desk_lamp,Desk lamp,데스크 램프,25,20265528,desk_lamp_025.png,images/desk_lamp_025.png,FLUX.2-klein-base-9B,768x768,desk lamp,single_lighting,768,768
+electric_kettle_001,electric_kettle,Electric kettle,전기 포트,1,20263504,electric_kettle_001.png,images/electric_kettle_001.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_002,electric_kettle,Electric kettle,전기 포트,2,20263505,electric_kettle_002.png,images/electric_kettle_002.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_003,electric_kettle,Electric kettle,전기 포트,3,20263506,electric_kettle_003.png,images/electric_kettle_003.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_004,electric_kettle,Electric kettle,전기 포트,4,20263507,electric_kettle_004.png,images/electric_kettle_004.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_005,electric_kettle,Electric kettle,전기 포트,5,20263508,electric_kettle_005.png,images/electric_kettle_005.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_006,electric_kettle,Electric kettle,전기 포트,6,20263509,electric_kettle_006.png,images/electric_kettle_006.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_007,electric_kettle,Electric kettle,전기 포트,7,20263510,electric_kettle_007.png,images/electric_kettle_007.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_008,electric_kettle,Electric kettle,전기 포트,8,20263511,electric_kettle_008.png,images/electric_kettle_008.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_009,electric_kettle,Electric kettle,전기 포트,9,20263512,electric_kettle_009.png,images/electric_kettle_009.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_010,electric_kettle,Electric kettle,전기 포트,10,20263513,electric_kettle_010.png,images/electric_kettle_010.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_011,electric_kettle,Electric kettle,전기 포트,11,20263514,electric_kettle_011.png,images/electric_kettle_011.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_012,electric_kettle,Electric kettle,전기 포트,12,20263515,electric_kettle_012.png,images/electric_kettle_012.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_013,electric_kettle,Electric kettle,전기 포트,13,20263516,electric_kettle_013.png,images/electric_kettle_013.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_014,electric_kettle,Electric kettle,전기 포트,14,20263517,electric_kettle_014.png,images/electric_kettle_014.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_015,electric_kettle,Electric kettle,전기 포트,15,20263518,electric_kettle_015.png,images/electric_kettle_015.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_016,electric_kettle,Electric kettle,전기 포트,16,20263519,electric_kettle_016.png,images/electric_kettle_016.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_017,electric_kettle,Electric kettle,전기 포트,17,20263520,electric_kettle_017.png,images/electric_kettle_017.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_018,electric_kettle,Electric kettle,전기 포트,18,20263521,electric_kettle_018.png,images/electric_kettle_018.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_019,electric_kettle,Electric kettle,전기 포트,19,20263522,electric_kettle_019.png,images/electric_kettle_019.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_020,electric_kettle,Electric kettle,전기 포트,20,20263523,electric_kettle_020.png,images/electric_kettle_020.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_021,electric_kettle,Electric kettle,전기 포트,21,20263524,electric_kettle_021.png,images/electric_kettle_021.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_022,electric_kettle,Electric kettle,전기 포트,22,20263525,electric_kettle_022.png,images/electric_kettle_022.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_023,electric_kettle,Electric kettle,전기 포트,23,20263526,electric_kettle_023.png,images/electric_kettle_023.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_024,electric_kettle,Electric kettle,전기 포트,24,20263527,electric_kettle_024.png,images/electric_kettle_024.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+electric_kettle_025,electric_kettle,Electric kettle,전기 포트,25,20263528,electric_kettle_025.png,images/electric_kettle_025.png,FLUX.2-klein-base-9B,768x768,electric kettle,single_appliance,768,768
+lounge_chair_001,lounge_chair,Lounge chair,라운지 체어,1,20264504,lounge_chair_001.png,images/lounge_chair_001.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_002,lounge_chair,Lounge chair,라운지 체어,2,20264505,lounge_chair_002.png,images/lounge_chair_002.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_003,lounge_chair,Lounge chair,라운지 체어,3,20264506,lounge_chair_003.png,images/lounge_chair_003.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_004,lounge_chair,Lounge chair,라운지 체어,4,20264507,lounge_chair_004.png,images/lounge_chair_004.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_005,lounge_chair,Lounge chair,라운지 체어,5,20264508,lounge_chair_005.png,images/lounge_chair_005.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_006,lounge_chair,Lounge chair,라운지 체어,6,20264509,lounge_chair_006.png,images/lounge_chair_006.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_007,lounge_chair,Lounge chair,라운지 체어,7,20264510,lounge_chair_007.png,images/lounge_chair_007.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_008,lounge_chair,Lounge chair,라운지 체어,8,20264511,lounge_chair_008.png,images/lounge_chair_008.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_009,lounge_chair,Lounge chair,라운지 체어,9,20264512,lounge_chair_009.png,images/lounge_chair_009.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_010,lounge_chair,Lounge chair,라운지 체어,10,20264513,lounge_chair_010.png,images/lounge_chair_010.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_011,lounge_chair,Lounge chair,라운지 체어,11,20264514,lounge_chair_011.png,images/lounge_chair_011.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_012,lounge_chair,Lounge chair,라운지 체어,12,20264515,lounge_chair_012.png,images/lounge_chair_012.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_013,lounge_chair,Lounge chair,라운지 체어,13,20264516,lounge_chair_013.png,images/lounge_chair_013.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_014,lounge_chair,Lounge chair,라운지 체어,14,20264517,lounge_chair_014.png,images/lounge_chair_014.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_015,lounge_chair,Lounge chair,라운지 체어,15,20264518,lounge_chair_015.png,images/lounge_chair_015.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_016,lounge_chair,Lounge chair,라운지 체어,16,20264519,lounge_chair_016.png,images/lounge_chair_016.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_017,lounge_chair,Lounge chair,라운지 체어,17,20264520,lounge_chair_017.png,images/lounge_chair_017.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_018,lounge_chair,Lounge chair,라운지 체어,18,20264521,lounge_chair_018.png,images/lounge_chair_018.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_019,lounge_chair,Lounge chair,라운지 체어,19,20264522,lounge_chair_019.png,images/lounge_chair_019.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_020,lounge_chair,Lounge chair,라운지 체어,20,20264523,lounge_chair_020.png,images/lounge_chair_020.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_021,lounge_chair,Lounge chair,라운지 체어,21,20264524,lounge_chair_021.png,images/lounge_chair_021.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_022,lounge_chair,Lounge chair,라운지 체어,22,20264525,lounge_chair_022.png,images/lounge_chair_022.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_023,lounge_chair,Lounge chair,라운지 체어,23,20264526,lounge_chair_023.png,images/lounge_chair_023.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_024,lounge_chair,Lounge chair,라운지 체어,24,20264527,lounge_chair_024.png,images/lounge_chair_024.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+lounge_chair_025,lounge_chair,Lounge chair,라운지 체어,25,20264528,lounge_chair_025.png,images/lounge_chair_025.png,FLUX.2-klein-base-9B,768x768,lounge chair,single_furniture,768,768
+sneakers_001,sneakers,Sneakers,스니커즈,1,20267504,sneakers_001.png,images/sneakers_001.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_002,sneakers,Sneakers,스니커즈,2,20267505,sneakers_002.png,images/sneakers_002.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_003,sneakers,Sneakers,스니커즈,3,20267506,sneakers_003.png,images/sneakers_003.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_004,sneakers,Sneakers,스니커즈,4,20267507,sneakers_004.png,images/sneakers_004.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_005,sneakers,Sneakers,스니커즈,5,20267508,sneakers_005.png,images/sneakers_005.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_006,sneakers,Sneakers,스니커즈,6,20267509,sneakers_006.png,images/sneakers_006.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_007,sneakers,Sneakers,스니커즈,7,20267510,sneakers_007.png,images/sneakers_007.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_008,sneakers,Sneakers,스니커즈,8,20267511,sneakers_008.png,images/sneakers_008.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_009,sneakers,Sneakers,스니커즈,9,20267512,sneakers_009.png,images/sneakers_009.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_010,sneakers,Sneakers,스니커즈,10,20267513,sneakers_010.png,images/sneakers_010.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_011,sneakers,Sneakers,스니커즈,11,20267514,sneakers_011.png,images/sneakers_011.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_012,sneakers,Sneakers,스니커즈,12,20267515,sneakers_012.png,images/sneakers_012.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_013,sneakers,Sneakers,스니커즈,13,20267516,sneakers_013.png,images/sneakers_013.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_014,sneakers,Sneakers,스니커즈,14,20267517,sneakers_014.png,images/sneakers_014.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_015,sneakers,Sneakers,스니커즈,15,20267518,sneakers_015.png,images/sneakers_015.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_016,sneakers,Sneakers,스니커즈,16,20267519,sneakers_016.png,images/sneakers_016.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_017,sneakers,Sneakers,스니커즈,17,20267520,sneakers_017.png,images/sneakers_017.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_018,sneakers,Sneakers,스니커즈,18,20267521,sneakers_018.png,images/sneakers_018.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_019,sneakers,Sneakers,스니커즈,19,20267522,sneakers_019.png,images/sneakers_019.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_020,sneakers,Sneakers,스니커즈,20,20267523,sneakers_020.png,images/sneakers_020.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_021,sneakers,Sneakers,스니커즈,21,20267524,sneakers_021.png,images/sneakers_021.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_022,sneakers,Sneakers,스니커즈,22,20267525,sneakers_022.png,images/sneakers_022.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_023,sneakers,Sneakers,스니커즈,23,20267526,sneakers_023.png,images/sneakers_023.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_024,sneakers,Sneakers,스니커즈,24,20267527,sneakers_024.png,images/sneakers_024.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768
+sneakers_025,sneakers,Sneakers,스니커즈,25,20267528,sneakers_025.png,images/sneakers_025.png,FLUX.2-klein-base-9B,768x768,sneakers,single_wearable,768,768

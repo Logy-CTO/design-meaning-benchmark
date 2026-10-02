@@ -1,0 +1,137 @@
+{
+  "n_expected_images": 200,
+  "n_oof_test_predictions_per_arm": {
+    "soft_target": 200,
+    "majority_target": 200,
+    "soft_ce_only": 200
+  },
+  "n_valid_oof_ids": 200,
+  "each_image_tested_once": true,
+  "fold_split_ids_disjoint": true,
+  "train_test_data_hashes": [
+    {
+      "fold": 1,
+      "split": "train",
+      "n_images": 120,
+      "sha256": "1b87b67f3dcc1411f64fa455257dc6aca6216315bccce611461ec2e6fe3698df"
+    },
+    {
+      "fold": 1,
+      "split": "val",
+      "n_images": 40,
+      "sha256": "cbd2dc1a73b775d7c61aec828421de6e8b001f2a4cf573843bafee08bf163860"
+    },
+    {
+      "fold": 1,
+      "split": "test",
+      "n_images": 40,
+      "sha256": "fc1c4f012480b4be18edbf4075a28201c864aa86656308544a05f986cdd6579a"
+    },
+    {
+      "fold": 2,
+      "split": "train",
+      "n_images": 120,
+      "sha256": "9138c482ed0a4e0b9f15cbf7e429729f9043300a4e3d34d71de40c58c911a73d"
+    },
+    {
+      "fold": 2,
+      "split": "val",
+      "n_images": 40,
+      "sha256": "d64b3ed8bdc7c97f8800205f6cbe3378874143acb900368461442ca30122c513"
+    },
+    {
+      "fold": 2,
+      "split": "test",
+      "n_images": 40,
+      "sha256": "cbd2dc1a73b775d7c61aec828421de6e8b001f2a4cf573843bafee08bf163860"
+    },
+    {
+      "fold": 3,
+      "split": "train",
+      "n_images": 120,
+      "sha256": "9b88ca0e698de7cbdc0a521c7c431c5dcb98d3ce5efa03b7d20442b549edba81"
+    },
+    {
+      "fold": 3,
+      "split": "val",
+      "n_images": 40,
+      "sha256": "5f3ae68986a0e4c8e87a0fa8925cf75993eba6841094be142a1822cba1763c79"
+    },
+    {
+      "fold": 3,
+      "split": "test",
+      "n_images": 40,
+      "sha256": "d64b3ed8bdc7c97f8800205f6cbe3378874143acb900368461442ca30122c513"
+    },
+    {
+      "fold": 4,
+      "split": "train",
+      "n_images": 120,
+      "sha256": "a0efd02e2dafd282173fdb54aba2a9f830117a54c8ea3ab5f805234d5ce6971a"
+    },
+    {
+      "fold": 4,
+      "split": "val",
+      "n_images": 40,
+      "sha256": "bd31d46d2fbb9df3733a1ad4a2aa289f35c89f75b62b41a205e4ad1c4bd2adae"
+    },
+    {
+      "fold": 4,
+      "split": "test",
+      "n_images": 40,
+      "sha256": "5f3ae68986a0e4c8e87a0fa8925cf75993eba6841094be142a1822cba1763c79"
+    },
+    {
+      "fold": 5,
+      "split": "train",
+      "n_images": 120,
+      "sha256": "eb833d11ea4a84bfda4aaf9dab15fb0f549af0d398a23858ead3db20d2298bbe"
+    },
+    {
+      "fold": 5,
+      "split": "val",
+      "n_images": 40,
+      "sha256": "fc1c4f012480b4be18edbf4075a28201c864aa86656308544a05f986cdd6579a"
+    },
+    {
+      "fold": 5,
+      "split": "test",
+      "n_images": 40,
+      "sha256": "bd31d46d2fbb9df3733a1ad4a2aa289f35c89f75b62b41a205e4ad1c4bd2adae"
+    }
+  ],
+  "image_hashes_count": 200,
+  "condition_metrics": {
+    "soft_target": {
+      "tie_aware_accuracy": 0.8125,
+      "hass": 0.6136666666666667,
+      "brier_sum": 0.05898406653579072,
+      "cross_entropy_nats": 1.0595154878367794,
+      "jsd_bits": 0.07107396755701068
+    },
+    "majority_target": {
+      "tie_aware_accuracy": 0.8275,
+      "hass": 0.607,
+      "brier_sum": 0.16776507174212796,
+      "cross_entropy_nats": 2.254849807750574,
+      "jsd_bits": 0.15942007857139956
+    },
+    "soft_ce_only": {
+      "tie_aware_accuracy": 0.7975,
+      "hass": 0.6063333333333334,
+      "brier_sum": 0.06360892683034214,
+      "cross_entropy_nats": 1.059085258972881,
+      "jsd_bits": 0.07680921630187186
+    },
+    "category_prior": {
+      "tie_aware_accuracy": 0.7775,
+      "hass": 0.5906666666666667,
+      "brier_sum": 0.07291827160493827,
+      "cross_entropy_nats": 1.098799648468515,
+      "jsd_bits": 0.08861784170357513
+    }
+  },
+  "bootstrap_replicates": 5000,
+  "bootstrap_seed": 8419,
+  "scope": "fixed 200-image subset; 5-fold out-of-fold; same Qwen checkpoint, folds, image inputs, fixed LoRA settings, and fold seeds; soft-loss bundle vs soft cross-entropy alone vs majority-label target; validation-only objective-specific early stopping; inherited hyperparameter selection remains selection-aware"
+}

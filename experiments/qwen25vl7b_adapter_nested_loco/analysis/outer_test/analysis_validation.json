@@ -1,0 +1,90 @@
+{
+  "n_expected_images": 200,
+  "n_predictions_per_arm": {
+    "soft_target": 200,
+    "majority_target": 200,
+    "global_soft_prior": 200
+  },
+  "each_image_tested_once": true,
+  "category_held_out_once_each": true,
+  "held_out_categories": {
+    "broom": "1",
+    "desk_lamp": "2",
+    "early_automobile": "3",
+    "electric_kettle": "4",
+    "lounge_chair": "5",
+    "sneakers": "6",
+    "sports_car": "7",
+    "vacuum_cleaner": "8"
+  },
+  "held_out_categories_absent_from_train_and_validation": true,
+  "split_ids_disjoint": true,
+  "train_validation_test_sizes_per_fold": {
+    "train": 140,
+    "validation": 35,
+    "test": 25
+  },
+  "test_categories_count": {
+    "broom": 25,
+    "desk_lamp": 25,
+    "early_automobile": 25,
+    "electric_kettle": 25,
+    "lounge_chair": 25,
+    "sneakers": 25,
+    "sports_car": 25,
+    "vacuum_cleaner": 25
+  },
+  "image_hashes_count": 200,
+  "model_revision": "cc594898137f460bfe9f0759e9844b3ce807cfb5",
+  "paired_seeds_match": true,
+  "bootstrap_replicates": 5000,
+  "bootstrap_seed": 8419,
+  "scope": "Fixed 200-image human-rated subset; hyperparameter selection nested within each outer leave-one-category-out training set; one FLUX generator; same 30-rater pool; bootstrap intervals condition on selected configurations and fitted outer-fold models.",
+  "nested_configuration_selection": {
+    "configs_per_outer_fold": 3,
+    "inner_category_folds_per_outer": 7,
+    "outer_test_categories_excluded_from_configuration_selection": true,
+    "selected_configs": {
+      "1": {
+        "config_id": "r16_lr2e5_hw00_ew05",
+        "outer_held_out_category": "broom",
+        "inner_mean_soft_cross_entropy_nats": 1.1246677306794943
+      },
+      "2": {
+        "config_id": "r32_lr2e5_hw10_ew10",
+        "outer_held_out_category": "desk_lamp",
+        "inner_mean_soft_cross_entropy_nats": 1.107458302485193
+      },
+      "3": {
+        "config_id": "r32_lr5e5_hw20_ew10",
+        "outer_held_out_category": "early_automobile",
+        "inner_mean_soft_cross_entropy_nats": 1.0876525725282173
+      },
+      "4": {
+        "config_id": "r16_lr2e5_hw00_ew05",
+        "outer_held_out_category": "electric_kettle",
+        "inner_mean_soft_cross_entropy_nats": 1.1871153651873545
+      },
+      "5": {
+        "config_id": "r16_lr2e5_hw00_ew05",
+        "outer_held_out_category": "lounge_chair",
+        "inner_mean_soft_cross_entropy_nats": 1.079409464445504
+      },
+      "6": {
+        "config_id": "r32_lr5e5_hw20_ew10",
+        "outer_held_out_category": "sneakers",
+        "inner_mean_soft_cross_entropy_nats": 1.073044177646533
+      },
+      "7": {
+        "config_id": "r32_lr5e5_hw20_ew10",
+        "outer_held_out_category": "sports_car",
+        "inner_mean_soft_cross_entropy_nats": 1.1378524512394692
+      },
+      "8": {
+        "config_id": "r32_lr5e5_hw20_ew10",
+        "outer_held_out_category": "vacuum_cleaner",
+        "inner_mean_soft_cross_entropy_nats": 1.1340637382969512
+      }
+    }
+  }
+}

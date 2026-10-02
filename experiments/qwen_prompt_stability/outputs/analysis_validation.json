@@ -1,0 +1,20 @@
+{
+  "model_revision": "cc594898137f460bfe9f0759e9844b3ce807cfb5",
+  "precision": "bfloat16",
+  "n_expected_rows": 1400,
+  "n_observed_rows": 1400,
+  "n_invalid_outputs": 0,
+  "image_hashes_verified": 200,
+  "prompt_hashes_verified": 2,
+  "conditions": [
+    "canonical_greedy",
+    "label_first_greedy",
+    "sample_seed_11",
+    "sample_seed_23",
+    "sample_seed_37",
+    "sample_seed_47",
+    "sample_seed_59"
+  ],
+  "stochastic_seed_rule": "first 64 bits of SHA-256(base_seed|image_id), modulo 2^63-1, before each image generation",
+  "scope": "one model, one fixed 200-image subset, one prompt-order contrast, five seeded stochastic draws"
+}

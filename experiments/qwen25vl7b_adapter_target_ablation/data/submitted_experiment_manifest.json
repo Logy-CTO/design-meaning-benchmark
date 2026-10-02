@@ -1,0 +1,72 @@
+{
+  "image_generation": {
+    "model": "FLUX.2-klein-base-9B",
+    "images": 1600,
+    "categories": 8,
+    "images_per_category": 200,
+    "resolution": [
+      768,
+      768
+    ],
+    "num_inference_steps": 12,
+    "guidance_scale": 3.5,
+    "seed_source": "data/master_image_manifest.csv"
+  },
+  "human_evaluation": {
+    "images": 200,
+    "images_per_category": 25,
+    "raters": 30,
+    "responses": 6000,
+    "presentation_order": "randomized per rater",
+    "released_form": "processed anonymous response table"
+  },
+  "vlm_evaluation": {
+    "prompt_key": "s2_descriptive_fields_first_8plus5",
+    "prompt_sha256": "26aa07eb586ba5321485b0c04ed3262ddbef885b9807ec7467654a357ae4c930",
+    "shared_prompt_across_groups": true,
+    "models": [
+      "LLaVA-1.5-7B",
+      "MiniCPM-V2.5-8B",
+      "Qwen2.5-VL-7B",
+      "InternVL3-8B",
+      "Qwen2.5-VL-32B",
+      "Qwen2.5-VL-72B",
+      "InternVL3-38B",
+      "GPT-5.5",
+      "Gemini-2.5-Flash"
+    ]
+  },
+  "adapter": {
+    "base_model": "Qwen/Qwen2.5-VL-7B-Instruct",
+    "folds": 5,
+    "split_per_fold": {
+      "train": 120,
+      "validation": 40,
+      "test": 40
+    },
+    "seed": 42,
+    "epochs_max": 18,
+    "early_stopping_patience": 4,
+    "batch_size": 2,
+    "gradient_accumulation": 4,
+    "learning_rate": 5e-05,
+    "weight_decay": 0.01,
+    "lora_rank": 32,
+    "lora_alpha": 64,
+    "lora_dropout": 0.1,
+    "hard_weight": 0.2,
+    "entropy_weight": 0.1,
+    "objective": "soft_cross_entropy + 0.2*majority_ce + 0.1*entropy_mse",
+    "evaluation": "five-fold out-of-fold predictions on the 200-image human subset",
+    "oof_accuracy": 0.82,
+    "oof_hass": 0.6118333333333332,
+    "oof_jsd_alignment": 0.7525663042617226
+  },
+  "review_archive": {
+    "generated_png_files_included": false,
+    "reason": "The 1,600 PNG files and model weights exceed the 50 MB review-upload limit.",
+    "analysis_ready_predictions_included": true,
+    "expected_result_tables_included": true,
+    "raw_provider_logs_included": false
+  }
+}

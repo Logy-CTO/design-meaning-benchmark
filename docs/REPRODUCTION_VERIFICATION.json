@@ -1,0 +1,59 @@
+{
+  "version": "1.0.0",
+  "human_responses": 6000,
+  "raters": 30,
+  "human_images": 200,
+  "image_inventory": 1600,
+  "prompted_outputs": 14400,
+  "primary_result_comparisons": [
+    {
+      "file": "human_agreement_bootstrap.csv",
+      "rows": 2,
+      "max_absolute_difference": 0.0
+    },
+    {
+      "file": "human_distribution_by_category.csv",
+      "rows": 8,
+      "max_absolute_difference": 0.0
+    },
+    {
+      "file": "human_reference_baselines.csv",
+      "rows": 3,
+      "max_absolute_difference": 0.0
+    },
+    {
+      "file": "human_subset_sample_indices.csv",
+      "rows": 8,
+      "max_absolute_difference": 0.0
+    },
+    {
+      "file": "model_and_baseline_metrics.csv",
+      "rows": 14,
+      "max_absolute_difference": 1.1102230246251565e-16
+    },
+    {
+      "file": "paired_category_baseline_differences.csv",
+      "rows": 26,
+      "max_absolute_difference": 0.0
+    },
+    {
+      "file": "soft_distribution_scores.csv",
+      "rows": 5,
+      "max_absolute_difference": 0.0
+    }
+  ],
+  "extended_analysis_completed": true,
+  "nested_inner_fits": 168,
+  "nested_selection_matches_archive": true,
+  "diagnostic_figures_reproduced": 10,
+  "training_or_api_requests_performed": false,
+  "image_hashes_match_original_inventory": true,
+  "analysis_package_versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scipy": "1.16.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.6",
+    "pillow": "12.0.0"
+  }
+}

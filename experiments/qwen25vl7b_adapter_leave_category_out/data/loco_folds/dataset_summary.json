@@ -1,0 +1,293 @@
+{
+  "n_images": 200,
+  "categories": [
+    "broom",
+    "desk_lamp",
+    "early_automobile",
+    "electric_kettle",
+    "lounge_chair",
+    "sneakers",
+    "sports_car",
+    "vacuum_cleaner"
+  ],
+  "images_per_category": {
+    "broom": 25,
+    "desk_lamp": 25,
+    "early_automobile": 25,
+    "electric_kettle": 25,
+    "lounge_chair": 25,
+    "sneakers": 25,
+    "sports_car": 25,
+    "vacuum_cleaner": 25
+  },
+  "outer_cv": "leave-one-human-rated-category-out",
+  "held_out_category_is_absent_from_train_and_validation": true,
+  "split_rule": "per non-held-out category, deterministic 20 train / 5 validation; held-out category 25 test",
+  "seed": 8419,
+  "folds": [
+    {
+      "fold": 1,
+      "held_out_category": "broom",
+      "train_images": 140,
+      "validation_images": 35,
+      "test_images": 25,
+      "train_categories": [
+        "desk_lamp",
+        "early_automobile",
+        "electric_kettle",
+        "lounge_chair",
+        "sneakers",
+        "sports_car",
+        "vacuum_cleaner"
+      ],
+      "validation_categories": [
+        "desk_lamp",
+        "early_automobile",
+        "electric_kettle",
+        "lounge_chair",
+        "sneakers",
+        "sports_car",
+        "vacuum_cleaner"
+      ],
+      "test_categories": [
+        "broom"
+      ],
+      "split_sha256": {
+        "train": "ac1529a2ea80626809647f41ecc04352db7ac335022705e580e560d6073faf73",
+        "val": "0bf4b82b9900720901743dc89ed0f0f3ce7839bd437dfa3301e04f367e23d5cd",
+        "test": "174a38e4cd2f10df71b83a40c846df49a3e5425146136423c9fbe372bf5f0b09"
+      }
+    },
+    {
+      "fold": 2,
+      "held_out_category": "desk_lamp",
+      "train_images": 140,
+      "validation_images": 35,
+      "test_images": 25,
+      "train_categories": [
+        "broom",
+        "early_automobile",
+        "electric_kettle",
+        "lounge_chair",
+        "sneakers",
+        "sports_car",
+        "vacuum_cleaner"
+      ],
+      "validation_categories": [
+        "broom",
+        "early_automobile",
+        "electric_kettle",
+        "lounge_chair",
+        "sneakers",
+        "sports_car",
+        "vacuum_cleaner"
+      ],
+      "test_categories": [
+        "desk_lamp"
+      ],
+      "split_sha256": {
+        "train": "4a4397a9c58fd8e337b6a007920ddc77dd2cf573ac5de3bf13ba9b65bc64e710",
+        "val": "1cc5fc71ad07e9910aa65ebc48ea99d793244f9a18429bbda17c5aa5672067eb",
+        "test": "668ea919adbf6f3dbe689adf4b63979da7e57a0af85776b90b4c0dfbb9536e74"
+      }
+    },
+    {
+      "fold": 3,
+      "held_out_category": "early_automobile",
+      "train_images": 140,
+      "validation_images": 35,
+      "test_images": 25,
+      "train_categories": [
+        "broom",
+        "desk_lamp",
+        "electric_kettle",
+        "lounge_chair",
+        "sneakers",
+        "sports_car",
+        "vacuum_cleaner"
+      ],
+      "validation_categories": [
+        "broom",
+        "desk_lamp",
+        "electric_kettle",
+        "lounge_chair",
+        "sneakers",
+        "sports_car",
+        "vacuum_cleaner"
+      ],
+      "test_categories": [
+        "early_automobile"
+      ],
+      "split_sha256": {
+        "train": "bcd2157bbb56c6f1f824d0c573452a8acf92aac7cbf6f321ba5ae855d4bf7bae",
+        "val": "98a0d06e625b926312c1e4e475ff463d40e98ff77e85d8eaaf78adff57db9ae7",
+        "test": "e404712dce797de95f14d1d06386f15c209524d9b6d89ab6858ef467bcb0aee4"
+      }
+    },
+    {
+      "fold": 4,
+      "held_out_category": "electric_kettle",
+      "train_images": 140,
+      "validation_images": 35,
+      "test_images": 25,
+      "train_categories": [
+        "broom",
+        "desk_lamp",
+        "early_automobile",
+        "lounge_chair",
+        "sneakers",
+        "sports_car",
+        "vacuum_cleaner"
+      ],
+      "validation_categories": [
+        "broom",
+        "desk_lamp",
+        "early_automobile",
+        "lounge_chair",
+        "sneakers",
+        "sports_car",
+        "vacuum_cleaner"
+      ],
+      "test_categories": [
+        "electric_kettle"
+      ],
+      "split_sha256": {
+        "train": "c65d1d504b2359b950304500bb81b99493a5f9428cf12c83fbc1ef27ebda7589",
+        "val": "7b2393f014dc1ca934f1e3b29d2e1bcd61d1b6a17ddc175db3c522b4db2df447",
+        "test": "92fbc9f910d944614d355c3902c367688d86213951131b53970d7b4ecd8c0c75"
+      }
+    },
+    {
+      "fold": 5,
+      "held_out_category": "lounge_chair",
+      "train_images": 140,
+      "validation_images": 35,
+      "test_images": 25,
+      "train_categories": [
+        "broom",
+        "desk_lamp",
+        "early_automobile",
+        "electric_kettle",
+        "sneakers",
+        "sports_car",
+        "vacuum_cleaner"
+      ],
+      "validation_categories": [
+        "broom",
+        "desk_lamp",
+        "early_automobile",
+        "electric_kettle",
+        "sneakers",
+        "sports_car",
+        "vacuum_cleaner"
+      ],
+      "test_categories": [
+        "lounge_chair"
+      ],
+      "split_sha256": {
+        "train": "22b7f47e9ab2e05a173351b94c2f289c1a25e3dc54b652fd723747e85cf4c44e",
+        "val": "109d69ac5f8eaa2b11409e19a564e2256d02eaafae7830a5412847d18a8e7672",
+        "test": "5d44fe082e11b959f4b3552aa32310d4b7acfd1d1155b5838262a78378b8065e"
+      }
+    },
+    {
+      "fold": 6,
+      "held_out_category": "sneakers",
+      "train_images": 140,
+      "validation_images": 35,
+      "test_images": 25,
+      "train_categories": [
+        "broom",
+        "desk_lamp",
+        "early_automobile",
+        "electric_kettle",
+        "lounge_chair",
+        "sports_car",
+        "vacuum_cleaner"
+      ],
+      "validation_categories": [
+        "broom",
+        "desk_lamp",
+        "early_automobile",
+        "electric_kettle",
+        "lounge_chair",
+        "sports_car",
+        "vacuum_cleaner"
+      ],
+      "test_categories": [
+        "sneakers"
+      ],
+      "split_sha256": {
+        "train": "04f97f876624b6421f7ed0805eab36731e314e3d6be553ae29abdb48331537ea",
+        "val": "b0e0580fc2fe3b59dad89d5b2acd6f1574bd585b3945512b023bb6cd51ba2cc7",
+        "test": "e0449d5a1457518b5109db7f6eb010a1d8a94cc3ebb4cf73445fb41f2694460c"
+      }
+    },
+    {
+      "fold": 7,
+      "held_out_category": "sports_car",
+      "train_images": 140,
+      "validation_images": 35,
+      "test_images": 25,
+      "train_categories": [
+        "broom",
+        "desk_lamp",
+        "early_automobile",
+        "electric_kettle",
+        "lounge_chair",
+        "sneakers",
+        "vacuum_cleaner"
+      ],
+      "validation_categories": [
+        "broom",
+        "desk_lamp",
+        "early_automobile",
+        "electric_kettle",
+        "lounge_chair",
+        "sneakers",
+        "vacuum_cleaner"
+      ],
+      "test_categories": [
+        "sports_car"
+      ],
+      "split_sha256": {
+        "train": "bb42bda471162bccba04a7f993fcbfc3d84d54fee9bf80e5a236974298891c7c",
+        "val": "4f2db5bac3532328e0cf913323bbee35dfd3ede14d2a8c5f3bf4c8030f012a17",
+        "test": "ebd80d9c7fedd76a09101a8556b1c9e31e06da05d0d18c075bd8a850593a7aaf"
+      }
+    },
+    {
+      "fold": 8,
+      "held_out_category": "vacuum_cleaner",
+      "train_images": 140,
+      "validation_images": 35,
+      "test_images": 25,
+      "train_categories": [
+        "broom",
+        "desk_lamp",
+        "early_automobile",
+        "electric_kettle",
+        "lounge_chair",
+        "sneakers",
+        "sports_car"
+      ],
+      "validation_categories": [
+        "broom",
+        "desk_lamp",
+        "early_automobile",
+        "electric_kettle",
+        "lounge_chair",
+        "sneakers",
+        "sports_car"
+      ],
+      "test_categories": [
+        "vacuum_cleaner"
+      ],
+      "split_sha256": {
+        "train": "5943d0ff683df137528447bc325b1a70d18ffa45ceea831be6d4861fd8c4fa8d",
+        "val": "989abb2474be3607f7cd7deb11fb9ea52663c3baa4f2e56a40c599f31a6f384e",
+        "test": "2e912aae58d9fb168a7c4ad362612688b1b3a738faa30f1813a7b5d3aba11cf8"
+      }
+    }
+  ]
+}

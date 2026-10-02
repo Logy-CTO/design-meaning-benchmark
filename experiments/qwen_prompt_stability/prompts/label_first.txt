@@ -1,0 +1,39 @@
+Evaluate this generated product image as a design-evaluation task.
+
+First choose the single design_intent label that best summarizes the dominant meaning in the image. Then complete the five descriptive fields: function, semantic_meaning, emotion, cognitive_interpretation, and style_period.
+
+Target product category: <TARGET_PRODUCT_CATEGORY>
+
+Use only what is visible in the image and the target category for recognizability. Do not classify by target category name alone.
+
+Return only a valid JSON object. Do not include markdown, explanation, or additional text.
+
+{
+  "recognized_as_product": "yes | partial | no",
+  "image_quality": "integer from 1 to 5",
+  "target_category_recognizability": "integer from 1 to 5",
+  "confidence": "integer from 1 to 5",
+  "design_intent": "functionality | aesthetics | usability | symbolism | unclear",
+  "function_aesthetic_score": "integer from 1 to 5",
+  "form_function_consistency": "integer from 1 to 5",
+  "ambiguity_reason": "short text if ambiguous, otherwise 'none'",
+  "function": "short description of the main product function",
+  "semantic_meaning": "short description of symbolic or cultural meaning",
+  "emotion": "short emotional impression",
+  "cognitive_interpretation": "short description of likely user interpretation",
+  "style_period": "short style or historical-period label"
+}
+
+Scoring rules:
+- image_quality: 1 = very poor, 5 = very high quality
+- target_category_recognizability: 1 = not recognizable as the target category, 5 = clearly recognizable
+- confidence: 1 = very uncertain, 5 = very confident
+- function_aesthetic_score: 1 = strongly function/practical-use oriented, 3 = balanced, 5 = strongly aesthetics/symbolism oriented
+- form_function_consistency: 1 = form does not communicate function, 5 = form clearly communicates function
+
+Design-intent label definitions:
+- functionality: the image mainly communicates purpose, operation, or task performance.
+- aesthetics: the image mainly communicates visual style, beauty, material expression, color, form, or atmosphere.
+- usability: the image mainly communicates user interaction, comfort, handling, ease of use, or embodied experience.
+- symbolism: the image mainly communicates cultural meaning, lifestyle, identity, status, history, or period character.
+- unclear: the image does not support one dominant interpretation.

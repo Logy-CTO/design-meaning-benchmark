@@ -1,0 +1,73 @@
+﻿source,group,category,functionality,aesthetics,usability,symbolism,unclear
+"LLaVA-1.5 (7B, 2023)",Open-source,early_automobile,1.0,0.0,0.0,0.0,0.0
+"LLaVA-1.5 (7B, 2023)",Open-source,sports_car,1.0,0.0,0.0,0.0,0.0
+"LLaVA-1.5 (7B, 2023)",Open-source,broom,1.0,0.0,0.0,0.0,0.0
+"LLaVA-1.5 (7B, 2023)",Open-source,vacuum_cleaner,1.0,0.0,0.0,0.0,0.0
+"LLaVA-1.5 (7B, 2023)",Open-source,desk_lamp,1.0,0.0,0.0,0.0,0.0
+"LLaVA-1.5 (7B, 2023)",Open-source,electric_kettle,1.0,0.0,0.0,0.0,0.0
+"LLaVA-1.5 (7B, 2023)",Open-source,lounge_chair,1.0,0.0,0.0,0.0,0.0
+"LLaVA-1.5 (7B, 2023)",Open-source,sneakers,1.0,0.0,0.0,0.0,0.0
+"MiniCPM-V2.5 (8B, 2024)",Open-source,early_automobile,0.945,0.055,0.0,0.0,0.0
+"MiniCPM-V2.5 (8B, 2024)",Open-source,sports_car,0.0,1.0,0.0,0.0,0.0
+"MiniCPM-V2.5 (8B, 2024)",Open-source,broom,0.9,0.0,0.1,0.0,0.0
+"MiniCPM-V2.5 (8B, 2024)",Open-source,vacuum_cleaner,0.445,0.0,0.555,0.0,0.0
+"MiniCPM-V2.5 (8B, 2024)",Open-source,desk_lamp,0.59,0.375,0.035,0.0,0.0
+"MiniCPM-V2.5 (8B, 2024)",Open-source,electric_kettle,0.75,0.01,0.24,0.0,0.0
+"MiniCPM-V2.5 (8B, 2024)",Open-source,lounge_chair,0.0,0.655,0.345,0.0,0.0
+"MiniCPM-V2.5 (8B, 2024)",Open-source,sneakers,0.23,0.77,0.0,0.0,0.0
+"Qwen2.5-VL (7B, 2025)",Open-source,early_automobile,0.905,0.08,0.0,0.015,0.0
+"Qwen2.5-VL (7B, 2025)",Open-source,sports_car,0.0,1.0,0.0,0.0,0.0
+"Qwen2.5-VL (7B, 2025)",Open-source,broom,1.0,0.0,0.0,0.0,0.0
+"Qwen2.5-VL (7B, 2025)",Open-source,vacuum_cleaner,1.0,0.0,0.0,0.0,0.0
+"Qwen2.5-VL (7B, 2025)",Open-source,desk_lamp,0.555,0.445,0.0,0.0,0.0
+"Qwen2.5-VL (7B, 2025)",Open-source,electric_kettle,1.0,0.0,0.0,0.0,0.0
+"Qwen2.5-VL (7B, 2025)",Open-source,lounge_chair,0.275,0.725,0.0,0.0,0.0
+"Qwen2.5-VL (7B, 2025)",Open-source,sneakers,0.6,0.4,0.0,0.0,0.0
+"InternVL3 (8B, 2025)",Open-source,early_automobile,0.81,0.19,0.0,0.0,0.0
+"InternVL3 (8B, 2025)",Open-source,sports_car,0.0,1.0,0.0,0.0,0.0
+"InternVL3 (8B, 2025)",Open-source,broom,1.0,0.0,0.0,0.0,0.0
+"InternVL3 (8B, 2025)",Open-source,vacuum_cleaner,1.0,0.0,0.0,0.0,0.0
+"InternVL3 (8B, 2025)",Open-source,desk_lamp,0.235,0.765,0.0,0.0,0.0
+"InternVL3 (8B, 2025)",Open-source,electric_kettle,0.98,0.02,0.0,0.0,0.0
+"InternVL3 (8B, 2025)",Open-source,lounge_chair,0.02,0.97,0.01,0.0,0.0
+"InternVL3 (8B, 2025)",Open-source,sneakers,0.0,1.0,0.0,0.0,0.0
+"Qwen2.5-VL (32B, 2025)",Scaling,early_automobile,0.03,0.005,0.0,0.965,0.0
+"Qwen2.5-VL (32B, 2025)",Scaling,sports_car,0.0,1.0,0.0,0.0,0.0
+"Qwen2.5-VL (32B, 2025)",Scaling,broom,0.84,0.155,0.0,0.0,0.005
+"Qwen2.5-VL (32B, 2025)",Scaling,vacuum_cleaner,0.94,0.005,0.055,0.0,0.0
+"Qwen2.5-VL (32B, 2025)",Scaling,desk_lamp,0.015,0.985,0.0,0.0,0.0
+"Qwen2.5-VL (32B, 2025)",Scaling,electric_kettle,0.285,0.295,0.42,0.0,0.0
+"Qwen2.5-VL (32B, 2025)",Scaling,lounge_chair,0.0,0.965,0.035,0.0,0.0
+"Qwen2.5-VL (32B, 2025)",Scaling,sneakers,0.005,0.95,0.045,0.0,0.0
+"Qwen2.5-VL (72B, 2025)",Scaling,early_automobile,0.01,0.0,0.0,0.99,0.0
+"Qwen2.5-VL (72B, 2025)",Scaling,sports_car,0.0,1.0,0.0,0.0,0.0
+"Qwen2.5-VL (72B, 2025)",Scaling,broom,0.975,0.025,0.0,0.0,0.0
+"Qwen2.5-VL (72B, 2025)",Scaling,vacuum_cleaner,0.675,0.005,0.32,0.0,0.0
+"Qwen2.5-VL (72B, 2025)",Scaling,desk_lamp,0.295,0.61,0.095,0.0,0.0
+"Qwen2.5-VL (72B, 2025)",Scaling,electric_kettle,0.225,0.005,0.77,0.0,0.0
+"Qwen2.5-VL (72B, 2025)",Scaling,lounge_chair,0.0,0.785,0.215,0.0,0.0
+"Qwen2.5-VL (72B, 2025)",Scaling,sneakers,0.0,0.91,0.09,0.0,0.0
+"InternVL3 (38B, 2025)",Scaling,early_automobile,0.095,0.0,0.0,0.905,0.0
+"InternVL3 (38B, 2025)",Scaling,sports_car,0.0,1.0,0.0,0.0,0.0
+"InternVL3 (38B, 2025)",Scaling,broom,0.985,0.015,0.0,0.0,0.0
+"InternVL3 (38B, 2025)",Scaling,vacuum_cleaner,0.995,0.0,0.005,0.0,0.0
+"InternVL3 (38B, 2025)",Scaling,desk_lamp,0.055,0.945,0.0,0.0,0.0
+"InternVL3 (38B, 2025)",Scaling,electric_kettle,0.995,0.0,0.005,0.0,0.0
+"InternVL3 (38B, 2025)",Scaling,lounge_chair,0.0,0.875,0.125,0.0,0.0
+"InternVL3 (38B, 2025)",Scaling,sneakers,0.025,0.96,0.015,0.0,0.0
+GPT-5.5 (2025),Commercial,early_automobile,0.0,0.0,0.0,1.0,0.0
+GPT-5.5 (2025),Commercial,sports_car,0.085,0.915,0.0,0.0,0.0
+GPT-5.5 (2025),Commercial,broom,0.835,0.165,0.0,0.0,0.0
+GPT-5.5 (2025),Commercial,vacuum_cleaner,0.985,0.005,0.01,0.0,0.0
+GPT-5.5 (2025),Commercial,desk_lamp,0.475,0.525,0.0,0.0,0.0
+GPT-5.5 (2025),Commercial,electric_kettle,0.86,0.14,0.0,0.0,0.0
+GPT-5.5 (2025),Commercial,lounge_chair,0.0,0.15,0.85,0.0,0.0
+GPT-5.5 (2025),Commercial,sneakers,0.0,0.97,0.025,0.005,0.0
+Gemini 2.5 Flash (2025),Commercial,early_automobile,0.44,0.025,0.0,0.535,0.0
+Gemini 2.5 Flash (2025),Commercial,sports_car,0.04,0.955,0.0,0.005,0.0
+Gemini 2.5 Flash (2025),Commercial,broom,0.67,0.32,0.005,0.0,0.005
+Gemini 2.5 Flash (2025),Commercial,vacuum_cleaner,0.92,0.025,0.055,0.0,0.0
+Gemini 2.5 Flash (2025),Commercial,desk_lamp,0.665,0.335,0.0,0.0,0.0
+Gemini 2.5 Flash (2025),Commercial,electric_kettle,0.97,0.0,0.03,0.0,0.0
+Gemini 2.5 Flash (2025),Commercial,lounge_chair,0.005,0.815,0.18,0.0,0.0
+Gemini 2.5 Flash (2025),Commercial,sneakers,0.03,0.925,0.005,0.04,0.0

@@ -1,0 +1,7 @@
+difference,metric,point_estimate,ci95_low,ci95_high
+Qwen2.5-VL-7B (category supplied) - Qwen2.5-VL-7B (category omitted),fractional_plurality_accuracy,-0.03,-0.07,0.01
+Qwen2.5-VL-7B (category supplied) - Qwen2.5-VL-7B (category omitted),HASS,-0.01833333333333333,-0.03383333333333333,-0.004995833333333393
+Qwen2.5-VL-7B (category supplied) - Qwen2.5-VL-7B (category omitted),confidence_weighted_HASS,-0.018589253883371532,-0.03425005785319215,-0.005168238525738824
+Category-only soft prior (train only) - Qwen2.5-VL-7B (category omitted),fractional_plurality_accuracy,0.11,0.06,0.16
+Category-only soft prior (train only) - Qwen2.5-VL-7B (category omitted),HASS,0.047499999999999994,0.02916666666666667,0.06649999999999999
+Category-only soft prior (train only) - Qwen2.5-VL-7B (category omitted),confidence_weighted_HASS,0.04821364909600204,0.030362874334289927,0.06689623442040193

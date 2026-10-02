@@ -1,0 +1,2001 @@
+model,image_id,category,design_intent
+"LLaVA-1.5 (7B, 2023)",sports_car_001,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_002,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_003,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_004,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_005,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_006,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_007,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_008,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_009,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_010,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_011,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_012,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_013,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_014,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_015,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_016,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_017,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_018,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_019,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_020,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_021,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_022,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_023,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_024,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",sports_car_025,sports_car,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_001,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_002,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_003,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_004,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_005,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_006,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_007,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_008,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_009,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_010,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_011,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_012,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_013,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_014,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_015,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_016,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_017,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_018,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_019,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_020,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_021,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_022,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_023,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_024,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",early_automobile_025,early_automobile,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_001,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_002,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_003,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_004,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_005,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_006,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_007,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_008,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_009,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_010,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_011,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_012,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_013,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_014,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_015,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_016,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_017,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_018,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_019,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_020,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_021,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_022,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_023,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_024,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",vacuum_cleaner_025,vacuum_cleaner,functionality
+"LLaVA-1.5 (7B, 2023)",broom_001,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_002,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_003,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_004,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_005,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_006,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_007,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_008,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_009,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_010,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_011,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_012,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_013,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_014,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_015,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_016,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_017,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_018,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_019,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_020,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_021,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_022,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_023,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_024,broom,functionality
+"LLaVA-1.5 (7B, 2023)",broom_025,broom,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_001,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_002,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_003,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_004,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_005,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_006,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_007,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_008,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_009,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_010,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_011,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_012,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_013,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_014,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_015,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_016,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_017,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_018,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_019,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_020,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_021,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_022,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_023,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_024,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",electric_kettle_025,electric_kettle,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_001,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_002,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_003,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_004,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_005,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_006,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_007,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_008,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_009,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_010,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_011,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_012,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_013,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_014,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_015,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_016,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_017,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_018,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_019,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_020,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_021,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_022,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_023,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_024,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",lounge_chair_025,lounge_chair,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_001,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_002,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_003,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_004,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_005,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_006,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_007,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_008,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_009,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_010,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_011,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_012,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_013,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_014,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_015,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_016,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_017,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_018,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_019,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_020,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_021,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_022,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_023,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_024,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",desk_lamp_025,desk_lamp,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_001,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_002,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_003,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_004,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_005,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_006,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_007,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_008,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_009,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_010,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_011,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_012,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_013,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_014,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_015,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_016,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_017,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_018,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_019,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_020,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_021,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_022,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_023,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_024,sneakers,functionality
+"LLaVA-1.5 (7B, 2023)",sneakers_025,sneakers,functionality
+"MiniCPM-V2.5 (8B, 2024)",sports_car_001,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_002,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_003,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_004,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_005,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_006,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_007,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_008,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_009,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_010,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_011,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_012,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_013,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_014,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_015,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_016,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_017,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_018,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_019,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_020,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_021,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_022,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_023,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_024,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sports_car_025,sports_car,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_001,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_002,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_003,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_004,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_005,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_006,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_007,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_008,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_009,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_010,early_automobile,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_011,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_012,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_013,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_014,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_015,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_016,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_017,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_018,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_019,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_020,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_021,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_022,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_023,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_024,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",early_automobile_025,early_automobile,functionality
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_001,vacuum_cleaner,usability
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_002,vacuum_cleaner,functionality
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_003,vacuum_cleaner,functionality
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_004,vacuum_cleaner,functionality
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_005,vacuum_cleaner,usability
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_006,vacuum_cleaner,functionality
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_007,vacuum_cleaner,usability
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_008,vacuum_cleaner,usability
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_009,vacuum_cleaner,usability
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_010,vacuum_cleaner,usability
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_011,vacuum_cleaner,functionality
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_012,vacuum_cleaner,functionality
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_013,vacuum_cleaner,functionality
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_014,vacuum_cleaner,usability
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_015,vacuum_cleaner,functionality
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_016,vacuum_cleaner,functionality
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_017,vacuum_cleaner,functionality
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_018,vacuum_cleaner,usability
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_019,vacuum_cleaner,functionality
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_020,vacuum_cleaner,usability
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_021,vacuum_cleaner,usability
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_022,vacuum_cleaner,usability
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_023,vacuum_cleaner,usability
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_024,vacuum_cleaner,functionality
+"MiniCPM-V2.5 (8B, 2024)",vacuum_cleaner_025,vacuum_cleaner,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_001,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_002,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_003,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_004,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_005,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_006,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_007,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_008,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_009,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_010,broom,usability
+"MiniCPM-V2.5 (8B, 2024)",broom_011,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_012,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_013,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_014,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_015,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_016,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_017,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_018,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_019,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_020,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_021,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_022,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_023,broom,usability
+"MiniCPM-V2.5 (8B, 2024)",broom_024,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",broom_025,broom,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_001,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_002,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_003,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_004,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_005,electric_kettle,usability
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_006,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_007,electric_kettle,usability
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_008,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_009,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_010,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_011,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_012,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_013,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_014,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_015,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_016,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_017,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_018,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_019,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_020,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_021,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_022,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_023,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_024,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",electric_kettle_025,electric_kettle,functionality
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_001,lounge_chair,usability
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_002,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_003,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_004,lounge_chair,usability
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_005,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_006,lounge_chair,usability
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_007,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_008,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_009,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_010,lounge_chair,usability
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_011,lounge_chair,usability
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_012,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_013,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_014,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_015,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_016,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_017,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_018,lounge_chair,usability
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_019,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_020,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_021,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_022,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_023,lounge_chair,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_024,lounge_chair,usability
+"MiniCPM-V2.5 (8B, 2024)",lounge_chair_025,lounge_chair,usability
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_001,desk_lamp,functionality
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_002,desk_lamp,usability
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_003,desk_lamp,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_004,desk_lamp,functionality
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_005,desk_lamp,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_006,desk_lamp,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_007,desk_lamp,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_008,desk_lamp,functionality
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_009,desk_lamp,functionality
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_010,desk_lamp,functionality
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_011,desk_lamp,functionality
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_012,desk_lamp,functionality
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_013,desk_lamp,functionality
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_014,desk_lamp,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_015,desk_lamp,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_016,desk_lamp,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_017,desk_lamp,functionality
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_018,desk_lamp,functionality
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_019,desk_lamp,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_020,desk_lamp,usability
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_021,desk_lamp,functionality
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_022,desk_lamp,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_023,desk_lamp,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_024,desk_lamp,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",desk_lamp_025,desk_lamp,functionality
+"MiniCPM-V2.5 (8B, 2024)",sneakers_001,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_002,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_003,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_004,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_005,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_006,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_007,sneakers,functionality
+"MiniCPM-V2.5 (8B, 2024)",sneakers_008,sneakers,functionality
+"MiniCPM-V2.5 (8B, 2024)",sneakers_009,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_010,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_011,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_012,sneakers,functionality
+"MiniCPM-V2.5 (8B, 2024)",sneakers_013,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_014,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_015,sneakers,functionality
+"MiniCPM-V2.5 (8B, 2024)",sneakers_016,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_017,sneakers,functionality
+"MiniCPM-V2.5 (8B, 2024)",sneakers_018,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_019,sneakers,functionality
+"MiniCPM-V2.5 (8B, 2024)",sneakers_020,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_021,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_022,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_023,sneakers,functionality
+"MiniCPM-V2.5 (8B, 2024)",sneakers_024,sneakers,aesthetics
+"MiniCPM-V2.5 (8B, 2024)",sneakers_025,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sports_car_001,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_002,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_003,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_004,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_005,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_006,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_007,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_008,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_009,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_010,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_011,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_012,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_013,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_014,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_015,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_016,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_017,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_018,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_019,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_020,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_021,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_022,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_023,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_024,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",sports_car_025,sports_car,aesthetics
+"Qwen2.5-VL (7B, 2025)",early_automobile_001,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_002,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_003,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_004,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_005,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_006,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_007,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_008,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_009,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_010,early_automobile,aesthetics
+"Qwen2.5-VL (7B, 2025)",early_automobile_011,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_012,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_013,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_014,early_automobile,symbolism
+"Qwen2.5-VL (7B, 2025)",early_automobile_015,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_016,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_017,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_018,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_019,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_020,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_021,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_022,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_023,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_024,early_automobile,functionality
+"Qwen2.5-VL (7B, 2025)",early_automobile_025,early_automobile,aesthetics
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_001,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_002,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_003,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_004,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_005,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_006,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_007,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_008,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_009,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_010,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_011,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_012,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_013,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_014,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_015,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_016,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_017,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_018,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_019,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_020,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_021,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_022,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_023,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_024,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",vacuum_cleaner_025,vacuum_cleaner,functionality
+"Qwen2.5-VL (7B, 2025)",broom_001,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_002,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_003,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_004,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_005,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_006,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_007,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_008,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_009,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_010,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_011,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_012,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_013,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_014,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_015,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_016,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_017,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_018,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_019,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_020,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_021,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_022,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_023,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_024,broom,functionality
+"Qwen2.5-VL (7B, 2025)",broom_025,broom,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_001,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_002,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_003,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_004,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_005,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_006,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_007,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_008,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_009,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_010,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_011,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_012,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_013,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_014,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_015,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_016,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_017,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_018,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_019,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_020,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_021,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_022,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_023,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_024,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",electric_kettle_025,electric_kettle,functionality
+"Qwen2.5-VL (7B, 2025)",lounge_chair_001,lounge_chair,functionality
+"Qwen2.5-VL (7B, 2025)",lounge_chair_002,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_003,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_004,lounge_chair,functionality
+"Qwen2.5-VL (7B, 2025)",lounge_chair_005,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_006,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_007,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_008,lounge_chair,functionality
+"Qwen2.5-VL (7B, 2025)",lounge_chair_009,lounge_chair,functionality
+"Qwen2.5-VL (7B, 2025)",lounge_chair_010,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_011,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_012,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_013,lounge_chair,functionality
+"Qwen2.5-VL (7B, 2025)",lounge_chair_014,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_015,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_016,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_017,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_018,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_019,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_020,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_021,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_022,lounge_chair,functionality
+"Qwen2.5-VL (7B, 2025)",lounge_chair_023,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",lounge_chair_024,lounge_chair,functionality
+"Qwen2.5-VL (7B, 2025)",lounge_chair_025,lounge_chair,aesthetics
+"Qwen2.5-VL (7B, 2025)",desk_lamp_001,desk_lamp,functionality
+"Qwen2.5-VL (7B, 2025)",desk_lamp_002,desk_lamp,functionality
+"Qwen2.5-VL (7B, 2025)",desk_lamp_003,desk_lamp,aesthetics
+"Qwen2.5-VL (7B, 2025)",desk_lamp_004,desk_lamp,functionality
+"Qwen2.5-VL (7B, 2025)",desk_lamp_005,desk_lamp,aesthetics
+"Qwen2.5-VL (7B, 2025)",desk_lamp_006,desk_lamp,aesthetics
+"Qwen2.5-VL (7B, 2025)",desk_lamp_007,desk_lamp,aesthetics
+"Qwen2.5-VL (7B, 2025)",desk_lamp_008,desk_lamp,functionality
+"Qwen2.5-VL (7B, 2025)",desk_lamp_009,desk_lamp,functionality
+"Qwen2.5-VL (7B, 2025)",desk_lamp_010,desk_lamp,functionality
+"Qwen2.5-VL (7B, 2025)",desk_lamp_011,desk_lamp,functionality
+"Qwen2.5-VL (7B, 2025)",desk_lamp_012,desk_lamp,aesthetics
+"Qwen2.5-VL (7B, 2025)",desk_lamp_013,desk_lamp,functionality
+"Qwen2.5-VL (7B, 2025)",desk_lamp_014,desk_lamp,functionality
+"Qwen2.5-VL (7B, 2025)",desk_lamp_015,desk_lamp,aesthetics
+"Qwen2.5-VL (7B, 2025)",desk_lamp_016,desk_lamp,aesthetics
+"Qwen2.5-VL (7B, 2025)",desk_lamp_017,desk_lamp,functionality
+"Qwen2.5-VL (7B, 2025)",desk_lamp_018,desk_lamp,functionality
+"Qwen2.5-VL (7B, 2025)",desk_lamp_019,desk_lamp,aesthetics
+"Qwen2.5-VL (7B, 2025)",desk_lamp_020,desk_lamp,aesthetics
+"Qwen2.5-VL (7B, 2025)",desk_lamp_021,desk_lamp,functionality
+"Qwen2.5-VL (7B, 2025)",desk_lamp_022,desk_lamp,aesthetics
+"Qwen2.5-VL (7B, 2025)",desk_lamp_023,desk_lamp,aesthetics
+"Qwen2.5-VL (7B, 2025)",desk_lamp_024,desk_lamp,aesthetics
+"Qwen2.5-VL (7B, 2025)",desk_lamp_025,desk_lamp,aesthetics
+"Qwen2.5-VL (7B, 2025)",sneakers_001,sneakers,aesthetics
+"Qwen2.5-VL (7B, 2025)",sneakers_002,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_003,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_004,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_005,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_006,sneakers,aesthetics
+"Qwen2.5-VL (7B, 2025)",sneakers_007,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_008,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_009,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_010,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_011,sneakers,aesthetics
+"Qwen2.5-VL (7B, 2025)",sneakers_012,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_013,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_014,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_015,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_016,sneakers,aesthetics
+"Qwen2.5-VL (7B, 2025)",sneakers_017,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_018,sneakers,aesthetics
+"Qwen2.5-VL (7B, 2025)",sneakers_019,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_020,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_021,sneakers,aesthetics
+"Qwen2.5-VL (7B, 2025)",sneakers_022,sneakers,aesthetics
+"Qwen2.5-VL (7B, 2025)",sneakers_023,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_024,sneakers,functionality
+"Qwen2.5-VL (7B, 2025)",sneakers_025,sneakers,functionality
+"InternVL3 (8B, 2025)",sports_car_001,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_002,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_003,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_004,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_005,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_006,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_007,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_008,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_009,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_010,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_011,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_012,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_013,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_014,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_015,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_016,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_017,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_018,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_019,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_020,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_021,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_022,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_023,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_024,sports_car,aesthetics
+"InternVL3 (8B, 2025)",sports_car_025,sports_car,aesthetics
+"InternVL3 (8B, 2025)",early_automobile_001,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_002,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_003,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_004,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_005,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_006,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_007,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_008,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_009,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_010,early_automobile,aesthetics
+"InternVL3 (8B, 2025)",early_automobile_011,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_012,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_013,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_014,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_015,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_016,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_017,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_018,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_019,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_020,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_021,early_automobile,aesthetics
+"InternVL3 (8B, 2025)",early_automobile_022,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_023,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_024,early_automobile,functionality
+"InternVL3 (8B, 2025)",early_automobile_025,early_automobile,aesthetics
+"InternVL3 (8B, 2025)",vacuum_cleaner_001,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_002,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_003,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_004,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_005,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_006,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_007,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_008,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_009,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_010,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_011,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_012,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_013,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_014,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_015,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_016,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_017,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_018,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_019,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_020,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_021,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_022,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_023,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_024,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",vacuum_cleaner_025,vacuum_cleaner,functionality
+"InternVL3 (8B, 2025)",broom_001,broom,functionality
+"InternVL3 (8B, 2025)",broom_002,broom,functionality
+"InternVL3 (8B, 2025)",broom_003,broom,functionality
+"InternVL3 (8B, 2025)",broom_004,broom,functionality
+"InternVL3 (8B, 2025)",broom_005,broom,functionality
+"InternVL3 (8B, 2025)",broom_006,broom,functionality
+"InternVL3 (8B, 2025)",broom_007,broom,functionality
+"InternVL3 (8B, 2025)",broom_008,broom,functionality
+"InternVL3 (8B, 2025)",broom_009,broom,functionality
+"InternVL3 (8B, 2025)",broom_010,broom,functionality
+"InternVL3 (8B, 2025)",broom_011,broom,functionality
+"InternVL3 (8B, 2025)",broom_012,broom,functionality
+"InternVL3 (8B, 2025)",broom_013,broom,functionality
+"InternVL3 (8B, 2025)",broom_014,broom,functionality
+"InternVL3 (8B, 2025)",broom_015,broom,functionality
+"InternVL3 (8B, 2025)",broom_016,broom,functionality
+"InternVL3 (8B, 2025)",broom_017,broom,functionality
+"InternVL3 (8B, 2025)",broom_018,broom,functionality
+"InternVL3 (8B, 2025)",broom_019,broom,functionality
+"InternVL3 (8B, 2025)",broom_020,broom,functionality
+"InternVL3 (8B, 2025)",broom_021,broom,functionality
+"InternVL3 (8B, 2025)",broom_022,broom,functionality
+"InternVL3 (8B, 2025)",broom_023,broom,functionality
+"InternVL3 (8B, 2025)",broom_024,broom,functionality
+"InternVL3 (8B, 2025)",broom_025,broom,functionality
+"InternVL3 (8B, 2025)",electric_kettle_001,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_002,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_003,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_004,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_005,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_006,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_007,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_008,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_009,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_010,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_011,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_012,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_013,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_014,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_015,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_016,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_017,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_018,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_019,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_020,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_021,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_022,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_023,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_024,electric_kettle,functionality
+"InternVL3 (8B, 2025)",electric_kettle_025,electric_kettle,functionality
+"InternVL3 (8B, 2025)",lounge_chair_001,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_002,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_003,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_004,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_005,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_006,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_007,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_008,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_009,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_010,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_011,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_012,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_013,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_014,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_015,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_016,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_017,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_018,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_019,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_020,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_021,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_022,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_023,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_024,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",lounge_chair_025,lounge_chair,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_001,desk_lamp,functionality
+"InternVL3 (8B, 2025)",desk_lamp_002,desk_lamp,functionality
+"InternVL3 (8B, 2025)",desk_lamp_003,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_004,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_005,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_006,desk_lamp,functionality
+"InternVL3 (8B, 2025)",desk_lamp_007,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_008,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_009,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_010,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_011,desk_lamp,functionality
+"InternVL3 (8B, 2025)",desk_lamp_012,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_013,desk_lamp,functionality
+"InternVL3 (8B, 2025)",desk_lamp_014,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_015,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_016,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_017,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_018,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_019,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_020,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_021,desk_lamp,functionality
+"InternVL3 (8B, 2025)",desk_lamp_022,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_023,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_024,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",desk_lamp_025,desk_lamp,aesthetics
+"InternVL3 (8B, 2025)",sneakers_001,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_002,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_003,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_004,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_005,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_006,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_007,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_008,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_009,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_010,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_011,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_012,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_013,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_014,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_015,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_016,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_017,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_018,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_019,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_020,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_021,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_022,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_023,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_024,sneakers,aesthetics
+"InternVL3 (8B, 2025)",sneakers_025,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_001,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_002,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_003,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_004,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_005,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_006,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_007,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_008,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_009,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_010,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_011,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_012,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_013,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_014,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_015,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_016,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_017,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_018,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_019,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_020,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_021,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_022,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_023,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_024,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",sports_car_025,sports_car,aesthetics
+"Qwen2.5-VL (32B, 2025)",early_automobile_001,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_002,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_003,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_004,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_005,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_006,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_007,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_008,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_009,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_010,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_011,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_012,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_013,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_014,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_015,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_016,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_017,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_018,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_019,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_020,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_021,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_022,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_023,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_024,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",early_automobile_025,early_automobile,symbolism
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_001,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_002,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_003,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_004,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_005,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_006,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_007,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_008,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_009,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_010,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_011,vacuum_cleaner,usability
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_012,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_013,vacuum_cleaner,usability
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_014,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_015,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_016,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_017,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_018,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_019,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_020,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_021,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_022,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_023,vacuum_cleaner,usability
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_024,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",vacuum_cleaner_025,vacuum_cleaner,functionality
+"Qwen2.5-VL (32B, 2025)",broom_001,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_002,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_003,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_004,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_005,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_006,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_007,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_008,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_009,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_010,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_011,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_012,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_013,broom,aesthetics
+"Qwen2.5-VL (32B, 2025)",broom_014,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_015,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_016,broom,aesthetics
+"Qwen2.5-VL (32B, 2025)",broom_017,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_018,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_019,broom,aesthetics
+"Qwen2.5-VL (32B, 2025)",broom_020,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_021,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_022,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_023,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_024,broom,functionality
+"Qwen2.5-VL (32B, 2025)",broom_025,broom,aesthetics
+"Qwen2.5-VL (32B, 2025)",electric_kettle_001,electric_kettle,functionality
+"Qwen2.5-VL (32B, 2025)",electric_kettle_002,electric_kettle,aesthetics
+"Qwen2.5-VL (32B, 2025)",electric_kettle_003,electric_kettle,usability
+"Qwen2.5-VL (32B, 2025)",electric_kettle_004,electric_kettle,usability
+"Qwen2.5-VL (32B, 2025)",electric_kettle_005,electric_kettle,functionality
+"Qwen2.5-VL (32B, 2025)",electric_kettle_006,electric_kettle,aesthetics
+"Qwen2.5-VL (32B, 2025)",electric_kettle_007,electric_kettle,usability
+"Qwen2.5-VL (32B, 2025)",electric_kettle_008,electric_kettle,usability
+"Qwen2.5-VL (32B, 2025)",electric_kettle_009,electric_kettle,aesthetics
+"Qwen2.5-VL (32B, 2025)",electric_kettle_010,electric_kettle,functionality
+"Qwen2.5-VL (32B, 2025)",electric_kettle_011,electric_kettle,usability
+"Qwen2.5-VL (32B, 2025)",electric_kettle_012,electric_kettle,usability
+"Qwen2.5-VL (32B, 2025)",electric_kettle_013,electric_kettle,aesthetics
+"Qwen2.5-VL (32B, 2025)",electric_kettle_014,electric_kettle,aesthetics
+"Qwen2.5-VL (32B, 2025)",electric_kettle_015,electric_kettle,aesthetics
+"Qwen2.5-VL (32B, 2025)",electric_kettle_016,electric_kettle,usability
+"Qwen2.5-VL (32B, 2025)",electric_kettle_017,electric_kettle,functionality
+"Qwen2.5-VL (32B, 2025)",electric_kettle_018,electric_kettle,aesthetics
+"Qwen2.5-VL (32B, 2025)",electric_kettle_019,electric_kettle,usability
+"Qwen2.5-VL (32B, 2025)",electric_kettle_020,electric_kettle,functionality
+"Qwen2.5-VL (32B, 2025)",electric_kettle_021,electric_kettle,aesthetics
+"Qwen2.5-VL (32B, 2025)",electric_kettle_022,electric_kettle,aesthetics
+"Qwen2.5-VL (32B, 2025)",electric_kettle_023,electric_kettle,usability
+"Qwen2.5-VL (32B, 2025)",electric_kettle_024,electric_kettle,functionality
+"Qwen2.5-VL (32B, 2025)",electric_kettle_025,electric_kettle,functionality
+"Qwen2.5-VL (32B, 2025)",lounge_chair_001,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_002,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_003,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_004,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_005,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_006,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_007,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_008,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_009,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_010,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_011,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_012,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_013,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_014,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_015,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_016,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_017,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_018,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_019,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_020,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_021,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_022,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_023,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_024,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",lounge_chair_025,lounge_chair,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_001,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_002,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_003,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_004,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_005,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_006,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_007,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_008,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_009,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_010,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_011,desk_lamp,functionality
+"Qwen2.5-VL (32B, 2025)",desk_lamp_012,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_013,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_014,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_015,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_016,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_017,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_018,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_019,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_020,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_021,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_022,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_023,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_024,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",desk_lamp_025,desk_lamp,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_001,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_002,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_003,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_004,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_005,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_006,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_007,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_008,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_009,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_010,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_011,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_012,sneakers,usability
+"Qwen2.5-VL (32B, 2025)",sneakers_013,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_014,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_015,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_016,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_017,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_018,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_019,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_020,sneakers,usability
+"Qwen2.5-VL (32B, 2025)",sneakers_021,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_022,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_023,sneakers,usability
+"Qwen2.5-VL (32B, 2025)",sneakers_024,sneakers,aesthetics
+"Qwen2.5-VL (32B, 2025)",sneakers_025,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_001,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_002,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_003,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_004,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_005,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_006,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_007,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_008,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_009,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_010,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_011,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_012,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_013,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_014,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_015,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_016,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_017,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_018,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_019,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_020,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_021,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_022,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_023,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_024,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",sports_car_025,sports_car,aesthetics
+"Qwen2.5-VL (72B, 2025)",early_automobile_001,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_002,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_003,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_004,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_005,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_006,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_007,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_008,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_009,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_010,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_011,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_012,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_013,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_014,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_015,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_016,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_017,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_018,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_019,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_020,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_021,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_022,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_023,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_024,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",early_automobile_025,early_automobile,symbolism
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_001,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_002,vacuum_cleaner,usability
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_003,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_004,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_005,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_006,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_007,vacuum_cleaner,usability
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_008,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_009,vacuum_cleaner,usability
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_010,vacuum_cleaner,usability
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_011,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_012,vacuum_cleaner,usability
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_013,vacuum_cleaner,usability
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_014,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_015,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_016,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_017,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_018,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_019,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_020,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_021,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_022,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_023,vacuum_cleaner,usability
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_024,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",vacuum_cleaner_025,vacuum_cleaner,functionality
+"Qwen2.5-VL (72B, 2025)",broom_001,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_002,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_003,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_004,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_005,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_006,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_007,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_008,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_009,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_010,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_011,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_012,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_013,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_014,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_015,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_016,broom,aesthetics
+"Qwen2.5-VL (72B, 2025)",broom_017,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_018,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_019,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_020,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_021,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_022,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_023,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_024,broom,functionality
+"Qwen2.5-VL (72B, 2025)",broom_025,broom,functionality
+"Qwen2.5-VL (72B, 2025)",electric_kettle_001,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_002,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_003,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_004,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_005,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_006,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_007,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_008,electric_kettle,functionality
+"Qwen2.5-VL (72B, 2025)",electric_kettle_009,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_010,electric_kettle,functionality
+"Qwen2.5-VL (72B, 2025)",electric_kettle_011,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_012,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_013,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_014,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_015,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_016,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_017,electric_kettle,functionality
+"Qwen2.5-VL (72B, 2025)",electric_kettle_018,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_019,electric_kettle,functionality
+"Qwen2.5-VL (72B, 2025)",electric_kettle_020,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_021,electric_kettle,usability
+"Qwen2.5-VL (72B, 2025)",electric_kettle_022,electric_kettle,functionality
+"Qwen2.5-VL (72B, 2025)",electric_kettle_023,electric_kettle,functionality
+"Qwen2.5-VL (72B, 2025)",electric_kettle_024,electric_kettle,functionality
+"Qwen2.5-VL (72B, 2025)",electric_kettle_025,electric_kettle,functionality
+"Qwen2.5-VL (72B, 2025)",lounge_chair_001,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_002,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_003,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_004,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_005,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_006,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_007,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_008,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_009,lounge_chair,usability
+"Qwen2.5-VL (72B, 2025)",lounge_chair_010,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_011,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_012,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_013,lounge_chair,usability
+"Qwen2.5-VL (72B, 2025)",lounge_chair_014,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_015,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_016,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_017,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_018,lounge_chair,usability
+"Qwen2.5-VL (72B, 2025)",lounge_chair_019,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_020,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_021,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_022,lounge_chair,usability
+"Qwen2.5-VL (72B, 2025)",lounge_chair_023,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_024,lounge_chair,aesthetics
+"Qwen2.5-VL (72B, 2025)",lounge_chair_025,lounge_chair,usability
+"Qwen2.5-VL (72B, 2025)",desk_lamp_001,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_002,desk_lamp,usability
+"Qwen2.5-VL (72B, 2025)",desk_lamp_003,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_004,desk_lamp,functionality
+"Qwen2.5-VL (72B, 2025)",desk_lamp_005,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_006,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_007,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_008,desk_lamp,functionality
+"Qwen2.5-VL (72B, 2025)",desk_lamp_009,desk_lamp,functionality
+"Qwen2.5-VL (72B, 2025)",desk_lamp_010,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_011,desk_lamp,usability
+"Qwen2.5-VL (72B, 2025)",desk_lamp_012,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_013,desk_lamp,usability
+"Qwen2.5-VL (72B, 2025)",desk_lamp_014,desk_lamp,functionality
+"Qwen2.5-VL (72B, 2025)",desk_lamp_015,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_016,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_017,desk_lamp,usability
+"Qwen2.5-VL (72B, 2025)",desk_lamp_018,desk_lamp,functionality
+"Qwen2.5-VL (72B, 2025)",desk_lamp_019,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_020,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_021,desk_lamp,functionality
+"Qwen2.5-VL (72B, 2025)",desk_lamp_022,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_023,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_024,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",desk_lamp_025,desk_lamp,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_001,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_002,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_003,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_004,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_005,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_006,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_007,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_008,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_009,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_010,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_011,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_012,sneakers,usability
+"Qwen2.5-VL (72B, 2025)",sneakers_013,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_014,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_015,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_016,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_017,sneakers,usability
+"Qwen2.5-VL (72B, 2025)",sneakers_018,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_019,sneakers,usability
+"Qwen2.5-VL (72B, 2025)",sneakers_020,sneakers,usability
+"Qwen2.5-VL (72B, 2025)",sneakers_021,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_022,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_023,sneakers,usability
+"Qwen2.5-VL (72B, 2025)",sneakers_024,sneakers,aesthetics
+"Qwen2.5-VL (72B, 2025)",sneakers_025,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sports_car_001,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_002,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_003,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_004,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_005,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_006,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_007,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_008,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_009,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_010,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_011,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_012,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_013,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_014,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_015,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_016,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_017,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_018,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_019,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_020,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_021,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_022,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_023,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_024,sports_car,aesthetics
+"InternVL3 (38B, 2025)",sports_car_025,sports_car,aesthetics
+"InternVL3 (38B, 2025)",early_automobile_001,early_automobile,functionality
+"InternVL3 (38B, 2025)",early_automobile_002,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_003,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_004,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_005,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_006,early_automobile,functionality
+"InternVL3 (38B, 2025)",early_automobile_007,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_008,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_009,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_010,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_011,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_012,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_013,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_014,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_015,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_016,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_017,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_018,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_019,early_automobile,functionality
+"InternVL3 (38B, 2025)",early_automobile_020,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_021,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_022,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_023,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_024,early_automobile,symbolism
+"InternVL3 (38B, 2025)",early_automobile_025,early_automobile,symbolism
+"InternVL3 (38B, 2025)",vacuum_cleaner_001,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_002,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_003,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_004,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_005,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_006,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_007,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_008,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_009,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_010,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_011,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_012,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_013,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_014,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_015,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_016,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_017,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_018,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_019,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_020,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_021,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_022,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_023,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_024,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",vacuum_cleaner_025,vacuum_cleaner,functionality
+"InternVL3 (38B, 2025)",broom_001,broom,functionality
+"InternVL3 (38B, 2025)",broom_002,broom,functionality
+"InternVL3 (38B, 2025)",broom_003,broom,functionality
+"InternVL3 (38B, 2025)",broom_004,broom,functionality
+"InternVL3 (38B, 2025)",broom_005,broom,functionality
+"InternVL3 (38B, 2025)",broom_006,broom,functionality
+"InternVL3 (38B, 2025)",broom_007,broom,functionality
+"InternVL3 (38B, 2025)",broom_008,broom,functionality
+"InternVL3 (38B, 2025)",broom_009,broom,functionality
+"InternVL3 (38B, 2025)",broom_010,broom,functionality
+"InternVL3 (38B, 2025)",broom_011,broom,functionality
+"InternVL3 (38B, 2025)",broom_012,broom,functionality
+"InternVL3 (38B, 2025)",broom_013,broom,functionality
+"InternVL3 (38B, 2025)",broom_014,broom,functionality
+"InternVL3 (38B, 2025)",broom_015,broom,functionality
+"InternVL3 (38B, 2025)",broom_016,broom,functionality
+"InternVL3 (38B, 2025)",broom_017,broom,functionality
+"InternVL3 (38B, 2025)",broom_018,broom,functionality
+"InternVL3 (38B, 2025)",broom_019,broom,functionality
+"InternVL3 (38B, 2025)",broom_020,broom,functionality
+"InternVL3 (38B, 2025)",broom_021,broom,functionality
+"InternVL3 (38B, 2025)",broom_022,broom,functionality
+"InternVL3 (38B, 2025)",broom_023,broom,functionality
+"InternVL3 (38B, 2025)",broom_024,broom,functionality
+"InternVL3 (38B, 2025)",broom_025,broom,functionality
+"InternVL3 (38B, 2025)",electric_kettle_001,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_002,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_003,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_004,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_005,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_006,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_007,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_008,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_009,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_010,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_011,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_012,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_013,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_014,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_015,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_016,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_017,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_018,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_019,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_020,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_021,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_022,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_023,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_024,electric_kettle,functionality
+"InternVL3 (38B, 2025)",electric_kettle_025,electric_kettle,functionality
+"InternVL3 (38B, 2025)",lounge_chair_001,lounge_chair,usability
+"InternVL3 (38B, 2025)",lounge_chair_002,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_003,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_004,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_005,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_006,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_007,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_008,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_009,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_010,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_011,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_012,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_013,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_014,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_015,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_016,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_017,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_018,lounge_chair,usability
+"InternVL3 (38B, 2025)",lounge_chair_019,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_020,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_021,lounge_chair,usability
+"InternVL3 (38B, 2025)",lounge_chair_022,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_023,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_024,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",lounge_chair_025,lounge_chair,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_001,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_002,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_003,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_004,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_005,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_006,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_007,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_008,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_009,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_010,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_011,desk_lamp,functionality
+"InternVL3 (38B, 2025)",desk_lamp_012,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_013,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_014,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_015,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_016,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_017,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_018,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_019,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_020,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_021,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_022,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_023,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_024,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",desk_lamp_025,desk_lamp,aesthetics
+"InternVL3 (38B, 2025)",sneakers_001,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_002,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_003,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_004,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_005,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_006,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_007,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_008,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_009,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_010,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_011,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_012,sneakers,usability
+"InternVL3 (38B, 2025)",sneakers_013,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_014,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_015,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_016,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_017,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_018,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_019,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_020,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_021,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_022,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_023,sneakers,functionality
+"InternVL3 (38B, 2025)",sneakers_024,sneakers,aesthetics
+"InternVL3 (38B, 2025)",sneakers_025,sneakers,aesthetics
+GPT-5.5,early_automobile_001,early_automobile,symbolism
+GPT-5.5,early_automobile_002,early_automobile,symbolism
+GPT-5.5,early_automobile_003,early_automobile,symbolism
+GPT-5.5,early_automobile_004,early_automobile,symbolism
+GPT-5.5,early_automobile_005,early_automobile,symbolism
+GPT-5.5,early_automobile_006,early_automobile,symbolism
+GPT-5.5,early_automobile_007,early_automobile,symbolism
+GPT-5.5,early_automobile_008,early_automobile,symbolism
+GPT-5.5,early_automobile_009,early_automobile,symbolism
+GPT-5.5,early_automobile_010,early_automobile,symbolism
+GPT-5.5,early_automobile_011,early_automobile,symbolism
+GPT-5.5,early_automobile_012,early_automobile,symbolism
+GPT-5.5,early_automobile_013,early_automobile,symbolism
+GPT-5.5,early_automobile_014,early_automobile,symbolism
+GPT-5.5,early_automobile_015,early_automobile,symbolism
+GPT-5.5,early_automobile_016,early_automobile,symbolism
+GPT-5.5,early_automobile_017,early_automobile,symbolism
+GPT-5.5,early_automobile_018,early_automobile,symbolism
+GPT-5.5,early_automobile_019,early_automobile,symbolism
+GPT-5.5,early_automobile_020,early_automobile,symbolism
+GPT-5.5,early_automobile_021,early_automobile,symbolism
+GPT-5.5,early_automobile_022,early_automobile,symbolism
+GPT-5.5,early_automobile_023,early_automobile,symbolism
+GPT-5.5,early_automobile_024,early_automobile,symbolism
+GPT-5.5,early_automobile_025,early_automobile,symbolism
+GPT-5.5,sports_car_001,sports_car,aesthetics
+GPT-5.5,sports_car_002,sports_car,aesthetics
+GPT-5.5,sports_car_003,sports_car,aesthetics
+GPT-5.5,sports_car_004,sports_car,aesthetics
+GPT-5.5,sports_car_005,sports_car,aesthetics
+GPT-5.5,sports_car_006,sports_car,aesthetics
+GPT-5.5,sports_car_007,sports_car,aesthetics
+GPT-5.5,sports_car_008,sports_car,aesthetics
+GPT-5.5,sports_car_009,sports_car,aesthetics
+GPT-5.5,sports_car_010,sports_car,aesthetics
+GPT-5.5,sports_car_011,sports_car,aesthetics
+GPT-5.5,sports_car_012,sports_car,aesthetics
+GPT-5.5,sports_car_013,sports_car,aesthetics
+GPT-5.5,sports_car_014,sports_car,aesthetics
+GPT-5.5,sports_car_015,sports_car,aesthetics
+GPT-5.5,sports_car_016,sports_car,aesthetics
+GPT-5.5,sports_car_017,sports_car,aesthetics
+GPT-5.5,sports_car_018,sports_car,functionality
+GPT-5.5,sports_car_019,sports_car,aesthetics
+GPT-5.5,sports_car_020,sports_car,aesthetics
+GPT-5.5,sports_car_021,sports_car,functionality
+GPT-5.5,sports_car_022,sports_car,aesthetics
+GPT-5.5,sports_car_023,sports_car,aesthetics
+GPT-5.5,sports_car_024,sports_car,aesthetics
+GPT-5.5,sports_car_025,sports_car,aesthetics
+GPT-5.5,broom_001,broom,functionality
+GPT-5.5,broom_002,broom,functionality
+GPT-5.5,broom_003,broom,aesthetics
+GPT-5.5,broom_004,broom,functionality
+GPT-5.5,broom_005,broom,functionality
+GPT-5.5,broom_006,broom,functionality
+GPT-5.5,broom_007,broom,functionality
+GPT-5.5,broom_008,broom,functionality
+GPT-5.5,broom_009,broom,functionality
+GPT-5.5,broom_010,broom,functionality
+GPT-5.5,broom_011,broom,aesthetics
+GPT-5.5,broom_012,broom,functionality
+GPT-5.5,broom_013,broom,aesthetics
+GPT-5.5,broom_014,broom,functionality
+GPT-5.5,broom_015,broom,functionality
+GPT-5.5,broom_016,broom,aesthetics
+GPT-5.5,broom_017,broom,functionality
+GPT-5.5,broom_018,broom,functionality
+GPT-5.5,broom_019,broom,functionality
+GPT-5.5,broom_020,broom,functionality
+GPT-5.5,broom_021,broom,functionality
+GPT-5.5,broom_022,broom,functionality
+GPT-5.5,broom_023,broom,functionality
+GPT-5.5,broom_024,broom,functionality
+GPT-5.5,broom_025,broom,functionality
+GPT-5.5,vacuum_cleaner_001,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_002,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_003,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_004,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_005,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_006,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_007,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_008,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_009,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_010,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_011,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_012,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_013,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_014,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_015,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_016,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_017,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_018,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_019,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_020,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_021,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_022,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_023,vacuum_cleaner,usability
+GPT-5.5,vacuum_cleaner_024,vacuum_cleaner,functionality
+GPT-5.5,vacuum_cleaner_025,vacuum_cleaner,functionality
+GPT-5.5,electric_kettle_001,electric_kettle,functionality
+GPT-5.5,electric_kettle_002,electric_kettle,functionality
+GPT-5.5,electric_kettle_003,electric_kettle,functionality
+GPT-5.5,electric_kettle_004,electric_kettle,aesthetics
+GPT-5.5,electric_kettle_005,electric_kettle,functionality
+GPT-5.5,electric_kettle_006,electric_kettle,aesthetics
+GPT-5.5,electric_kettle_007,electric_kettle,functionality
+GPT-5.5,electric_kettle_008,electric_kettle,functionality
+GPT-5.5,electric_kettle_009,electric_kettle,aesthetics
+GPT-5.5,electric_kettle_010,electric_kettle,functionality
+GPT-5.5,electric_kettle_011,electric_kettle,functionality
+GPT-5.5,electric_kettle_012,electric_kettle,functionality
+GPT-5.5,electric_kettle_013,electric_kettle,functionality
+GPT-5.5,electric_kettle_014,electric_kettle,functionality
+GPT-5.5,electric_kettle_015,electric_kettle,functionality
+GPT-5.5,electric_kettle_016,electric_kettle,functionality
+GPT-5.5,electric_kettle_017,electric_kettle,functionality
+GPT-5.5,electric_kettle_018,electric_kettle,functionality
+GPT-5.5,electric_kettle_019,electric_kettle,functionality
+GPT-5.5,electric_kettle_020,electric_kettle,functionality
+GPT-5.5,electric_kettle_021,electric_kettle,aesthetics
+GPT-5.5,electric_kettle_022,electric_kettle,functionality
+GPT-5.5,electric_kettle_023,electric_kettle,aesthetics
+GPT-5.5,electric_kettle_024,electric_kettle,functionality
+GPT-5.5,electric_kettle_025,electric_kettle,functionality
+GPT-5.5,lounge_chair_001,lounge_chair,usability
+GPT-5.5,lounge_chair_002,lounge_chair,usability
+GPT-5.5,lounge_chair_003,lounge_chair,usability
+GPT-5.5,lounge_chair_004,lounge_chair,usability
+GPT-5.5,lounge_chair_005,lounge_chair,usability
+GPT-5.5,lounge_chair_006,lounge_chair,usability
+GPT-5.5,lounge_chair_007,lounge_chair,aesthetics
+GPT-5.5,lounge_chair_008,lounge_chair,aesthetics
+GPT-5.5,lounge_chair_009,lounge_chair,usability
+GPT-5.5,lounge_chair_010,lounge_chair,usability
+GPT-5.5,lounge_chair_011,lounge_chair,usability
+GPT-5.5,lounge_chair_012,lounge_chair,usability
+GPT-5.5,lounge_chair_013,lounge_chair,usability
+GPT-5.5,lounge_chair_014,lounge_chair,usability
+GPT-5.5,lounge_chair_015,lounge_chair,usability
+GPT-5.5,lounge_chair_016,lounge_chair,usability
+GPT-5.5,lounge_chair_017,lounge_chair,usability
+GPT-5.5,lounge_chair_018,lounge_chair,usability
+GPT-5.5,lounge_chair_019,lounge_chair,usability
+GPT-5.5,lounge_chair_020,lounge_chair,aesthetics
+GPT-5.5,lounge_chair_021,lounge_chair,usability
+GPT-5.5,lounge_chair_022,lounge_chair,usability
+GPT-5.5,lounge_chair_023,lounge_chair,usability
+GPT-5.5,lounge_chair_024,lounge_chair,usability
+GPT-5.5,lounge_chair_025,lounge_chair,usability
+GPT-5.5,desk_lamp_001,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_002,desk_lamp,functionality
+GPT-5.5,desk_lamp_003,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_004,desk_lamp,functionality
+GPT-5.5,desk_lamp_005,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_006,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_007,desk_lamp,functionality
+GPT-5.5,desk_lamp_008,desk_lamp,functionality
+GPT-5.5,desk_lamp_009,desk_lamp,functionality
+GPT-5.5,desk_lamp_010,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_011,desk_lamp,functionality
+GPT-5.5,desk_lamp_012,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_013,desk_lamp,functionality
+GPT-5.5,desk_lamp_014,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_015,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_016,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_017,desk_lamp,functionality
+GPT-5.5,desk_lamp_018,desk_lamp,functionality
+GPT-5.5,desk_lamp_019,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_020,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_021,desk_lamp,functionality
+GPT-5.5,desk_lamp_022,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_023,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_024,desk_lamp,aesthetics
+GPT-5.5,desk_lamp_025,desk_lamp,functionality
+GPT-5.5,sneakers_001,sneakers,aesthetics
+GPT-5.5,sneakers_002,sneakers,aesthetics
+GPT-5.5,sneakers_003,sneakers,aesthetics
+GPT-5.5,sneakers_004,sneakers,aesthetics
+GPT-5.5,sneakers_005,sneakers,aesthetics
+GPT-5.5,sneakers_006,sneakers,aesthetics
+GPT-5.5,sneakers_007,sneakers,aesthetics
+GPT-5.5,sneakers_008,sneakers,aesthetics
+GPT-5.5,sneakers_009,sneakers,aesthetics
+GPT-5.5,sneakers_010,sneakers,aesthetics
+GPT-5.5,sneakers_011,sneakers,aesthetics
+GPT-5.5,sneakers_012,sneakers,aesthetics
+GPT-5.5,sneakers_013,sneakers,aesthetics
+GPT-5.5,sneakers_014,sneakers,aesthetics
+GPT-5.5,sneakers_015,sneakers,aesthetics
+GPT-5.5,sneakers_016,sneakers,aesthetics
+GPT-5.5,sneakers_017,sneakers,aesthetics
+GPT-5.5,sneakers_018,sneakers,aesthetics
+GPT-5.5,sneakers_019,sneakers,aesthetics
+GPT-5.5,sneakers_020,sneakers,aesthetics
+GPT-5.5,sneakers_021,sneakers,aesthetics
+GPT-5.5,sneakers_022,sneakers,aesthetics
+GPT-5.5,sneakers_023,sneakers,aesthetics
+GPT-5.5,sneakers_024,sneakers,aesthetics
+GPT-5.5,sneakers_025,sneakers,aesthetics
+Gemini 2.5 Flash,early_automobile_001,early_automobile,functionality
+Gemini 2.5 Flash,early_automobile_002,early_automobile,functionality
+Gemini 2.5 Flash,early_automobile_003,early_automobile,functionality
+Gemini 2.5 Flash,early_automobile_004,early_automobile,symbolism
+Gemini 2.5 Flash,early_automobile_005,early_automobile,symbolism
+Gemini 2.5 Flash,early_automobile_006,early_automobile,functionality
+Gemini 2.5 Flash,early_automobile_007,early_automobile,functionality
+Gemini 2.5 Flash,early_automobile_008,early_automobile,functionality
+Gemini 2.5 Flash,early_automobile_009,early_automobile,functionality
+Gemini 2.5 Flash,early_automobile_010,early_automobile,symbolism
+Gemini 2.5 Flash,early_automobile_011,early_automobile,symbolism
+Gemini 2.5 Flash,early_automobile_012,early_automobile,functionality
+Gemini 2.5 Flash,early_automobile_013,early_automobile,symbolism
+Gemini 2.5 Flash,early_automobile_014,early_automobile,symbolism
+Gemini 2.5 Flash,early_automobile_015,early_automobile,symbolism
+Gemini 2.5 Flash,early_automobile_016,early_automobile,functionality
+Gemini 2.5 Flash,early_automobile_017,early_automobile,symbolism
+Gemini 2.5 Flash,early_automobile_018,early_automobile,symbolism
+Gemini 2.5 Flash,early_automobile_019,early_automobile,functionality
+Gemini 2.5 Flash,early_automobile_020,early_automobile,symbolism
+Gemini 2.5 Flash,early_automobile_021,early_automobile,aesthetics
+Gemini 2.5 Flash,early_automobile_022,early_automobile,symbolism
+Gemini 2.5 Flash,early_automobile_023,early_automobile,symbolism
+Gemini 2.5 Flash,early_automobile_024,early_automobile,symbolism
+Gemini 2.5 Flash,early_automobile_025,early_automobile,aesthetics
+Gemini 2.5 Flash,sports_car_001,sports_car,functionality
+Gemini 2.5 Flash,sports_car_002,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_003,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_004,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_005,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_006,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_007,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_008,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_009,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_010,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_011,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_012,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_013,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_014,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_015,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_016,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_017,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_018,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_019,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_020,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_021,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_022,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_023,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_024,sports_car,aesthetics
+Gemini 2.5 Flash,sports_car_025,sports_car,aesthetics
+Gemini 2.5 Flash,broom_001,broom,functionality
+Gemini 2.5 Flash,broom_002,broom,functionality
+Gemini 2.5 Flash,broom_003,broom,functionality
+Gemini 2.5 Flash,broom_004,broom,functionality
+Gemini 2.5 Flash,broom_005,broom,functionality
+Gemini 2.5 Flash,broom_006,broom,functionality
+Gemini 2.5 Flash,broom_007,broom,functionality
+Gemini 2.5 Flash,broom_008,broom,functionality
+Gemini 2.5 Flash,broom_009,broom,aesthetics
+Gemini 2.5 Flash,broom_010,broom,aesthetics
+Gemini 2.5 Flash,broom_011,broom,functionality
+Gemini 2.5 Flash,broom_012,broom,aesthetics
+Gemini 2.5 Flash,broom_013,broom,aesthetics
+Gemini 2.5 Flash,broom_014,broom,aesthetics
+Gemini 2.5 Flash,broom_015,broom,functionality
+Gemini 2.5 Flash,broom_016,broom,aesthetics
+Gemini 2.5 Flash,broom_017,broom,functionality
+Gemini 2.5 Flash,broom_018,broom,functionality
+Gemini 2.5 Flash,broom_019,broom,aesthetics
+Gemini 2.5 Flash,broom_020,broom,functionality
+Gemini 2.5 Flash,broom_021,broom,aesthetics
+Gemini 2.5 Flash,broom_022,broom,functionality
+Gemini 2.5 Flash,broom_023,broom,usability
+Gemini 2.5 Flash,broom_024,broom,functionality
+Gemini 2.5 Flash,broom_025,broom,functionality
+Gemini 2.5 Flash,vacuum_cleaner_001,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_002,vacuum_cleaner,usability
+Gemini 2.5 Flash,vacuum_cleaner_003,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_004,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_005,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_006,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_007,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_008,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_009,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_010,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_011,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_012,vacuum_cleaner,aesthetics
+Gemini 2.5 Flash,vacuum_cleaner_013,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_014,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_015,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_016,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_017,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_018,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_019,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_020,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_021,vacuum_cleaner,aesthetics
+Gemini 2.5 Flash,vacuum_cleaner_022,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_023,vacuum_cleaner,usability
+Gemini 2.5 Flash,vacuum_cleaner_024,vacuum_cleaner,functionality
+Gemini 2.5 Flash,vacuum_cleaner_025,vacuum_cleaner,functionality
+Gemini 2.5 Flash,electric_kettle_001,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_002,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_003,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_004,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_005,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_006,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_007,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_008,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_009,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_010,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_011,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_012,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_013,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_014,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_015,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_016,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_017,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_018,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_019,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_020,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_021,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_022,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_023,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_024,electric_kettle,functionality
+Gemini 2.5 Flash,electric_kettle_025,electric_kettle,functionality
+Gemini 2.5 Flash,lounge_chair_001,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_002,lounge_chair,usability
+Gemini 2.5 Flash,lounge_chair_003,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_004,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_005,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_006,lounge_chair,usability
+Gemini 2.5 Flash,lounge_chair_007,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_008,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_009,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_010,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_011,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_012,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_013,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_014,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_015,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_016,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_017,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_018,lounge_chair,usability
+Gemini 2.5 Flash,lounge_chair_019,lounge_chair,usability
+Gemini 2.5 Flash,lounge_chair_020,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_021,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_022,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_023,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_024,lounge_chair,aesthetics
+Gemini 2.5 Flash,lounge_chair_025,lounge_chair,aesthetics
+Gemini 2.5 Flash,desk_lamp_001,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_002,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_003,desk_lamp,aesthetics
+Gemini 2.5 Flash,desk_lamp_004,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_005,desk_lamp,aesthetics
+Gemini 2.5 Flash,desk_lamp_006,desk_lamp,aesthetics
+Gemini 2.5 Flash,desk_lamp_007,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_008,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_009,desk_lamp,aesthetics
+Gemini 2.5 Flash,desk_lamp_010,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_011,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_012,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_013,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_014,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_015,desk_lamp,aesthetics
+Gemini 2.5 Flash,desk_lamp_016,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_017,desk_lamp,aesthetics
+Gemini 2.5 Flash,desk_lamp_018,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_019,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_020,desk_lamp,aesthetics
+Gemini 2.5 Flash,desk_lamp_021,desk_lamp,functionality
+Gemini 2.5 Flash,desk_lamp_022,desk_lamp,aesthetics
+Gemini 2.5 Flash,desk_lamp_023,desk_lamp,aesthetics
+Gemini 2.5 Flash,desk_lamp_024,desk_lamp,aesthetics
+Gemini 2.5 Flash,desk_lamp_025,desk_lamp,aesthetics
+Gemini 2.5 Flash,sneakers_001,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_002,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_003,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_004,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_005,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_006,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_007,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_008,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_009,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_010,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_011,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_012,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_013,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_014,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_015,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_016,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_017,sneakers,functionality
+Gemini 2.5 Flash,sneakers_018,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_019,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_020,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_021,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_022,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_023,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_024,sneakers,aesthetics
+Gemini 2.5 Flash,sneakers_025,sneakers,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_002,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_001,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_014,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_006,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_019,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_019,desk_lamp,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_022,desk_lamp,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_013,desk_lamp,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_003,desk_lamp,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_010,desk_lamp,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_014,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_024,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_005,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_013,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_010,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_001,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_019,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_009,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_020,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_007,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_018,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_010,lounge_chair,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_004,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_021,lounge_chair,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_012,lounge_chair,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_013,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_005,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_007,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_003,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_006,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_003,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_024,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_016,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_012,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_019,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_025,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_019,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_015,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_006,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_011,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_005,broom,unclear
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_007,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_004,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_024,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_021,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_015,desk_lamp,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_023,desk_lamp,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_018,desk_lamp,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_004,desk_lamp,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_005,desk_lamp,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_023,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_007,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_011,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_020,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_008,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_004,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_023,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_012,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_021,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_018,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_008,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_016,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_015,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_022,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_014,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_011,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_024,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_017,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_014,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_009,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_011,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_002,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_025,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_020,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_017,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_002,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_004,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_017,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_022,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_018,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_011,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_017,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_008,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_012,broom,unclear
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_023,broom,unclear
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_001,desk_lamp,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_020,desk_lamp,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_007,desk_lamp,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_017,desk_lamp,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_012,desk_lamp,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_003,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_016,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_019,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_015,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_012,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_008,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_024,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_013,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_022,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_002,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_011,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_017,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_023,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_019,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_003,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_025,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_022,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_016,sneakers,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_010,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_020,sneakers,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_021,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_004,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_007,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_023,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_001,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_012,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_020,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_016,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_009,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_023,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_009,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_020,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_015,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_013,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_025,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_024,desk_lamp,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_006,desk_lamp,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_025,desk_lamp,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_016,desk_lamp,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_021,desk_lamp,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_004,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_017,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_018,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_001,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_006,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_010,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_025,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_014,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_005,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_003,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_024,lounge_chair,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_025,lounge_chair,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_009,lounge_chair,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_002,lounge_chair,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_006,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_001,sneakers,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_018,sneakers,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_002,sneakers,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_015,sneakers,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_019,sneakers,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_015,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_005,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_010,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_006,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_022,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_003,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_008,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_024,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_014,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_010,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_016,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_022,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_018,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_010,broom,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",broom_003,broom,unclear
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_014,desk_lamp,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_011,desk_lamp,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_002,desk_lamp,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_008,desk_lamp,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",desk_lamp_009,desk_lamp,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_009,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_022,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_021,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_002,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",early_automobile_025,early_automobile,symbolism
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_016,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_006,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_017,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_011,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",electric_kettle_015,electric_kettle,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_007,lounge_chair,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_005,lounge_chair,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_020,lounge_chair,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_001,lounge_chair,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",lounge_chair_013,lounge_chair,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_004,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_008,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_012,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_023,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sneakers_021,sneakers,usability
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_018,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_013,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_008,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_014,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",sports_car_009,sports_car,aesthetics
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_007,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_013,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_005,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_001,vacuum_cleaner,functionality
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",vacuum_cleaner_021,vacuum_cleaner,functionality

@@ -1,0 +1,6 @@
+predictor,n_images,brier_sum,soft_cross_entropy_nats,soft_JSD_bits,paired_difference,ci95_low,ci95_high
+Category-only soft prior (OOF),200,0.07291827160493827,1.0987996484685152,0.08861784170357513,,,
+Human-aligned LoRA adapter (submitted OOF),200,0.0603453973695661,1.0548711706244145,0.0694586222685369,,,
+Brier sum (adapter - category),200,,,,-0.012572874235372173,-0.022279125703702725,-0.0026975829528110297
+soft cross-entropy nats (adapter - category),200,,,,-0.04392847784410063,-0.07343139334865398,-0.01577614792109512
+soft JSD bits (adapter - category),200,,,,-0.019159219435038226,-0.02582893887075079,-0.012385343570289633

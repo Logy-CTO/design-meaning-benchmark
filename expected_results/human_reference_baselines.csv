@@ -1,0 +1,4 @@
+reference,n_images,fractional_plurality_accuracy,accuracy_ci95_low,accuracy_ci95_high,human_support,support_ci95_low,support_ci95_high,interpretation
+Uniform random (expected),200,0.2,0.2,0.2,0.2,0.2,0.2,Expected under uniform five-class predictions
+Human leave-one-rater-out,200,0.6335555555555555,0.6119993055555556,0.6551666666666668,0.5075172413793103,0.48970114942528736,0.5252988505747126,Each of 30 observed raters scored against the other 29 on the same image
+In-sample plurality oracle,200,0.9925,0.9825,1.0,0.6508333333333334,0.6338333333333334,0.6675,Descriptive upper reference computed from all 30 labels; not held-out

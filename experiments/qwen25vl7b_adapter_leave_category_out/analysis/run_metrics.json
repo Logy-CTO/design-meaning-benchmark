@@ -1,0 +1,147 @@
+{
+  "conditions": {
+    "soft_target": {
+      "tie_aware_accuracy": 0.6225,
+      "hass": 0.5183333333333334,
+      "brier_sum": 0.1350667444954483,
+      "cross_entropy_nats": 1.1767061857363896,
+      "jsd_bits": 0.11832325841789856
+    },
+    "majority_target": {
+      "tie_aware_accuracy": 0.5975,
+      "hass": 0.5096666666666667,
+      "brier_sum": 0.29295611279279227,
+      "cross_entropy_nats": 1.9688381921564007,
+      "jsd_bits": 0.21331374786562532
+    },
+    "global_soft_prior": {
+      "tie_aware_accuracy": 0.5325,
+      "hass": 0.4633333333333334,
+      "brier_sum": 0.27343664115646255,
+      "cross_entropy_nats": 1.5185748653759623,
+      "jsd_bits": 0.23557731598824902
+    }
+  },
+  "paired_differences": [
+    {
+      "comparison": "soft_target - majority_target",
+      "metric": "tie_aware_accuracy",
+      "difference": 0.025000000000000022,
+      "ci95_low": -0.020000000000000018,
+      "ci95_high": 0.06999999999999995,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "soft_target - majority_target",
+      "metric": "hass",
+      "difference": 0.008666666666666711,
+      "ci95_low": -0.013333333333333254,
+      "ci95_high": 0.03050416666666663,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "soft_target - majority_target",
+      "metric": "brier_sum",
+      "difference": -0.15788936829734396,
+      "ci95_low": -0.1802101372315455,
+      "ci95_high": -0.1367974934486631,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "soft_target - majority_target",
+      "metric": "cross_entropy_nats",
+      "difference": -0.792132006420011,
+      "ci95_low": -0.868173886685089,
+      "ci95_high": -0.719724158861165,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "soft_target - majority_target",
+      "metric": "jsd_bits",
+      "difference": -0.09499048944772676,
+      "ci95_low": -0.10801845220337042,
+      "ci95_high": -0.0822255808327358,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "soft_target - global_soft_prior",
+      "metric": "tie_aware_accuracy",
+      "difference": 0.09000000000000008,
+      "ci95_low": 0.04499999999999993,
+      "ci95_high": 0.135,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "soft_target - global_soft_prior",
+      "metric": "hass",
+      "difference": 0.05500000000000005,
+      "ci95_low": 0.037829166666666615,
+      "ci95_high": 0.0718333333333333,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "soft_target - global_soft_prior",
+      "metric": "brier_sum",
+      "difference": -0.13836989666101424,
+      "ci95_low": -0.15223162880560853,
+      "ci95_high": -0.12465744788588841,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "soft_target - global_soft_prior",
+      "metric": "cross_entropy_nats",
+      "difference": -0.3418686796395727,
+      "ci95_low": -0.3791059792563997,
+      "ci95_high": -0.3048769291322344,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "soft_target - global_soft_prior",
+      "metric": "jsd_bits",
+      "difference": -0.11725405757035046,
+      "ci95_low": -0.12731408553642706,
+      "ci95_high": -0.10737146405728745,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "majority_target - global_soft_prior",
+      "metric": "tie_aware_accuracy",
+      "difference": 0.06500000000000006,
+      "ci95_low": 0.015000000000000013,
+      "ci95_high": 0.11499999999999999,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "majority_target - global_soft_prior",
+      "metric": "hass",
+      "difference": 0.04633333333333334,
+      "ci95_low": 0.02699999999999997,
+      "ci95_high": 0.06550416666666661,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "majority_target - global_soft_prior",
+      "metric": "brier_sum",
+      "difference": 0.01951947163632972,
+      "ci95_low": -0.0067115443625851545,
+      "ci95_high": 0.047331685184817666,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "majority_target - global_soft_prior",
+      "metric": "cross_entropy_nats",
+      "difference": 0.45026332678043834,
+      "ci95_low": 0.35877764213366375,
+      "ci95_high": 0.5481105084385314,
+      "bootstrap_replicates": 5000
+    },
+    {
+      "comparison": "majority_target - global_soft_prior",
+      "metric": "jsd_bits",
+      "difference": -0.0222635681226237,
+      "ci95_low": -0.03910004124754061,
+      "ci95_high": -0.0047965066530618605,
+      "bootstrap_replicates": 5000
+    }
+  ]
+}

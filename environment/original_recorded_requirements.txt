@@ -1,0 +1,24 @@
+# Analysis and figure reproduction require pandas, numpy, scipy, scikit-learn,
+# and matplotlib. The remaining packages are required only to rerun inference,
+# generation, or adapter training. Install a CUDA-compatible PyTorch build.
+accelerate
+bitsandbytes
+diffusers
+google-generativeai
+huggingface-hub
+matplotlib
+numpy
+openai
+pandas
+peft
+Pillow
+qwen-vl-utils
+requests
+scikit-learn
+scipy
+seaborn
+statsmodels
+torch
+torchvision
+transformers
+tqdm

@@ -1,0 +1,55 @@
+{
+  "schema_version": "human_8_field_v1",
+  "presentation": {
+    "images_per_rater": 200,
+    "randomized_order_per_rater": true,
+    "resume_supported": true
+  },
+  "fields": [
+    {
+      "name": "recognized_as_product",
+      "type": "categorical",
+      "values": ["yes", "partial", "no"]
+    },
+    {
+      "name": "image_quality",
+      "type": "ordinal_integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    {
+      "name": "target_category_recognizability",
+      "type": "ordinal_integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    {
+      "name": "confidence",
+      "type": "ordinal_integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    {
+      "name": "design_intent",
+      "type": "categorical",
+      "values": ["functionality", "aesthetics", "usability", "symbolism", "unclear"]
+    },
+    {
+      "name": "function_aesthetic_score",
+      "type": "ordinal_integer",
+      "minimum": 1,
+      "maximum": 5,
+      "anchors": {"1": "function-oriented", "3": "balanced", "5": "aesthetic-oriented"}
+    },
+    {
+      "name": "form_function_consistency",
+      "type": "ordinal_integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    {
+      "name": "ambiguity_reason",
+      "type": "optional_text"
+    }
+  ]
+}

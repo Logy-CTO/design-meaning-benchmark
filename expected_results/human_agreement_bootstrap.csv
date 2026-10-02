@@ -1,0 +1,3 @@
+measure,estimate,ci95_percentile_low,ci95_percentile_high,bootstrap_replicates,seed,resampling_unit,conditioning
+fleiss_kappa,0.2961634000,0.2740207935,0.3171554233,5000,20260925,image within category,fixed observed set of 30 raters
+krippendorff_alpha_nominal,0.2962807061,0.2741417900,0.3172692307,5000,20260925,image within category,fixed observed set of 30 raters

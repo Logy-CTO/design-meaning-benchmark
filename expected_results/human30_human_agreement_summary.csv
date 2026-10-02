@@ -1,0 +1,2 @@
+﻿n_raters,n_images,fleiss_kappa,krippendorff_alpha_nominal,mean_design_intent_entropy,tie_image_count
+30,200,0.2961634000434136,0.3196246200419669,0.528131554755625,3

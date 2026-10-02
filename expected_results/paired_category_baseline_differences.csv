@@ -1,0 +1,27 @@
+difference,metric,point_estimate,ci95_low,ci95_high
+"Category-only soft prior (train only, OOF) - Category-only soft prior (train+val, OOF)",fractional_plurality_accuracy,-0.005,-0.035,0.025
+"Category-only soft prior (train only, OOF) - Category-only soft prior (train+val, OOF)",HASS,-0.005833333333333333,-0.01633333333333333,0.004
+"Category-only soft prior (train only, OOF) - Global soft prior (train only, OOF)",fractional_plurality_accuracy,0.245,0.215,0.275
+"Category-only soft prior (train only, OOF) - Global soft prior (train only, OOF)",HASS,0.12733333333333335,0.11083333333333334,0.1425
+"Category-only soft prior (train only, OOF) - Global soft prior (train+val, OOF)",fractional_plurality_accuracy,0.245,0.215,0.275
+"Category-only soft prior (train only, OOF) - Global soft prior (train+val, OOF)",HASS,0.12733333333333335,0.11083333333333334,0.1425
+"Category-only soft prior (train only, OOF) - Human-aligned LoRA adapter (submitted OOF)",fractional_plurality_accuracy,-0.035,-0.075,0.005
+"Category-only soft prior (train only, OOF) - Human-aligned LoRA adapter (submitted OOF)",HASS,-0.021166666666666667,-0.03500416666666667,-0.008166666666666666
+"Category-only soft prior (train only, OOF) - LLaVA-1.5 (7B, 2023)",fractional_plurality_accuracy,0.245,0.215,0.275
+"Category-only soft prior (train only, OOF) - LLaVA-1.5 (7B, 2023)",HASS,0.12733333333333335,0.11083333333333334,0.1425
+"Category-only soft prior (train only, OOF) - MiniCPM-V2.5 (8B, 2024)",fractional_plurality_accuracy,0.25,0.185,0.315
+"Category-only soft prior (train only, OOF) - MiniCPM-V2.5 (8B, 2024)",HASS,0.12050000000000001,0.09233333333333332,0.1495
+"Category-only soft prior (train only, OOF) - Qwen2.5-VL (7B, 2025)",fractional_plurality_accuracy,0.14,0.0825,0.2
+"Category-only soft prior (train only, OOF) - Qwen2.5-VL (7B, 2025)",HASS,0.06583333333333333,0.04516666666666667,0.08650416666666662
+"Category-only soft prior (train only, OOF) - InternVL3 (8B, 2025)",fractional_plurality_accuracy,0.22,0.155,0.28
+"Category-only soft prior (train only, OOF) - InternVL3 (8B, 2025)",HASS,0.11166666666666666,0.08582916666666665,0.13750416666666662
+"Category-only soft prior (train only, OOF) - Qwen2.5-VL (32B, 2025)",fractional_plurality_accuracy,0.205,0.1325,0.2775
+"Category-only soft prior (train only, OOF) - Qwen2.5-VL (32B, 2025)",HASS,0.135,0.1015,0.1685
+"Category-only soft prior (train only, OOF) - Qwen2.5-VL (72B, 2025)",fractional_plurality_accuracy,0.1825,0.11,0.255
+"Category-only soft prior (train only, OOF) - Qwen2.5-VL (72B, 2025)",HASS,0.121,0.08716666666666667,0.1545
+"Category-only soft prior (train only, OOF) - InternVL3 (38B, 2025)",fractional_plurality_accuracy,0.1025,0.0325,0.17
+"Category-only soft prior (train only, OOF) - InternVL3 (38B, 2025)",HASS,0.059833333333333336,0.03333333333333333,0.08733333333333332
+"Category-only soft prior (train only, OOF) - GPT-5.5",fractional_plurality_accuracy,0.09,0.025,0.155
+"Category-only soft prior (train only, OOF) - GPT-5.5",HASS,0.06133333333333333,0.032,0.09183333333333334
+"Category-only soft prior (train only, OOF) - Gemini 2.5 Flash",fractional_plurality_accuracy,0.1725,0.1025,0.2425
+"Category-only soft prior (train only, OOF) - Gemini 2.5 Flash",HASS,0.09583333333333333,0.0655,0.12733749999999996

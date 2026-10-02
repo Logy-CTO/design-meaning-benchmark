@@ -1,0 +1,242 @@
+{
+  "1": {
+    "config_id": "r16_lr2e5_hw00_ew05",
+    "rank": 16,
+    "alpha": 32,
+    "learning_rate": 2e-05,
+    "dropout": 0.05,
+    "max_epochs": 18,
+    "hard_weight": 0.0,
+    "entropy_weight": 0.05,
+    "source_run": "soft_r16_lr2e5_hw00_ew05_e18",
+    "outer_fold": 1,
+    "outer_held_out_category": "broom",
+    "inner_mean_soft_cross_entropy_nats": 1.1246677306794943,
+    "inner_ranking": [
+      {
+        "config_id": "r16_lr2e5_hw00_ew05",
+        "mean_soft_cross_entropy_nats": 1.1246677306794943
+      },
+      {
+        "config_id": "r32_lr2e5_hw10_ew10",
+        "mean_soft_cross_entropy_nats": 1.1328445842346497
+      },
+      {
+        "config_id": "r32_lr5e5_hw20_ew10",
+        "mean_soft_cross_entropy_nats": 1.134968856089408
+      }
+    ],
+    "inner_category_count": 7,
+    "inner_image_count_per_config": 175
+  },
+  "2": {
+    "config_id": "r32_lr2e5_hw10_ew10",
+    "rank": 32,
+    "alpha": 64,
+    "learning_rate": 2e-05,
+    "dropout": 0.1,
+    "max_epochs": 20,
+    "hard_weight": 0.1,
+    "entropy_weight": 0.1,
+    "source_run": "soft_r32_lr2e5_hw10_ew10_e20",
+    "outer_fold": 2,
+    "outer_held_out_category": "desk_lamp",
+    "inner_mean_soft_cross_entropy_nats": 1.107458302485193,
+    "inner_ranking": [
+      {
+        "config_id": "r32_lr2e5_hw10_ew10",
+        "mean_soft_cross_entropy_nats": 1.107458302485193
+      },
+      {
+        "config_id": "r32_lr5e5_hw20_ew10",
+        "mean_soft_cross_entropy_nats": 1.1076682656068904
+      },
+      {
+        "config_id": "r16_lr2e5_hw00_ew05",
+        "mean_soft_cross_entropy_nats": 1.1341683901528354
+      }
+    ],
+    "inner_category_count": 7,
+    "inner_image_count_per_config": 175
+  },
+  "3": {
+    "config_id": "r32_lr5e5_hw20_ew10",
+    "rank": 32,
+    "alpha": 64,
+    "learning_rate": 5e-05,
+    "dropout": 0.1,
+    "max_epochs": 18,
+    "hard_weight": 0.2,
+    "entropy_weight": 0.1,
+    "source_run": "soft_r32_lr5e5_hw20_ew10_e18",
+    "outer_fold": 3,
+    "outer_held_out_category": "early_automobile",
+    "inner_mean_soft_cross_entropy_nats": 1.0876525725282173,
+    "inner_ranking": [
+      {
+        "config_id": "r32_lr5e5_hw20_ew10",
+        "mean_soft_cross_entropy_nats": 1.0876525725282173
+      },
+      {
+        "config_id": "r32_lr2e5_hw10_ew10",
+        "mean_soft_cross_entropy_nats": 1.0902693504582086
+      },
+      {
+        "config_id": "r16_lr2e5_hw00_ew05",
+        "mean_soft_cross_entropy_nats": 1.0985281162258136
+      }
+    ],
+    "inner_category_count": 7,
+    "inner_image_count_per_config": 175
+  },
+  "4": {
+    "config_id": "r16_lr2e5_hw00_ew05",
+    "rank": 16,
+    "alpha": 32,
+    "learning_rate": 2e-05,
+    "dropout": 0.05,
+    "max_epochs": 18,
+    "hard_weight": 0.0,
+    "entropy_weight": 0.05,
+    "source_run": "soft_r16_lr2e5_hw00_ew05_e18",
+    "outer_fold": 4,
+    "outer_held_out_category": "electric_kettle",
+    "inner_mean_soft_cross_entropy_nats": 1.1871153651873545,
+    "inner_ranking": [
+      {
+        "config_id": "r16_lr2e5_hw00_ew05",
+        "mean_soft_cross_entropy_nats": 1.1871153651873545
+      },
+      {
+        "config_id": "r32_lr2e5_hw10_ew10",
+        "mean_soft_cross_entropy_nats": 1.191134034614566
+      },
+      {
+        "config_id": "r32_lr5e5_hw20_ew10",
+        "mean_soft_cross_entropy_nats": 1.201919543439597
+      }
+    ],
+    "inner_category_count": 7,
+    "inner_image_count_per_config": 175
+  },
+  "5": {
+    "config_id": "r16_lr2e5_hw00_ew05",
+    "rank": 16,
+    "alpha": 32,
+    "learning_rate": 2e-05,
+    "dropout": 0.05,
+    "max_epochs": 18,
+    "hard_weight": 0.0,
+    "entropy_weight": 0.05,
+    "source_run": "soft_r16_lr2e5_hw00_ew05_e18",
+    "outer_fold": 5,
+    "outer_held_out_category": "lounge_chair",
+    "inner_mean_soft_cross_entropy_nats": 1.079409464445504,
+    "inner_ranking": [
+      {
+        "config_id": "r16_lr2e5_hw00_ew05",
+        "mean_soft_cross_entropy_nats": 1.079409464445504
+      },
+      {
+        "config_id": "r32_lr2e5_hw10_ew10",
+        "mean_soft_cross_entropy_nats": 1.0850678400519305
+      },
+      {
+        "config_id": "r32_lr5e5_hw20_ew10",
+        "mean_soft_cross_entropy_nats": 1.0989322372783175
+      }
+    ],
+    "inner_category_count": 7,
+    "inner_image_count_per_config": 175
+  },
+  "6": {
+    "config_id": "r32_lr5e5_hw20_ew10",
+    "rank": 32,
+    "alpha": 64,
+    "learning_rate": 5e-05,
+    "dropout": 0.1,
+    "max_epochs": 18,
+    "hard_weight": 0.2,
+    "entropy_weight": 0.1,
+    "source_run": "soft_r32_lr5e5_hw20_ew10_e18",
+    "outer_fold": 6,
+    "outer_held_out_category": "sneakers",
+    "inner_mean_soft_cross_entropy_nats": 1.073044177646533,
+    "inner_ranking": [
+      {
+        "config_id": "r32_lr5e5_hw20_ew10",
+        "mean_soft_cross_entropy_nats": 1.073044177646533
+      },
+      {
+        "config_id": "r32_lr2e5_hw10_ew10",
+        "mean_soft_cross_entropy_nats": 1.0852010984619045
+      },
+      {
+        "config_id": "r16_lr2e5_hw00_ew05",
+        "mean_soft_cross_entropy_nats": 1.088796032470024
+      }
+    ],
+    "inner_category_count": 7,
+    "inner_image_count_per_config": 175
+  },
+  "7": {
+    "config_id": "r32_lr5e5_hw20_ew10",
+    "rank": 32,
+    "alpha": 64,
+    "learning_rate": 5e-05,
+    "dropout": 0.1,
+    "max_epochs": 18,
+    "hard_weight": 0.2,
+    "entropy_weight": 0.1,
+    "source_run": "soft_r32_lr5e5_hw20_ew10_e18",
+    "outer_fold": 7,
+    "outer_held_out_category": "sports_car",
+    "inner_mean_soft_cross_entropy_nats": 1.1378524512394692,
+    "inner_ranking": [
+      {
+        "config_id": "r32_lr5e5_hw20_ew10",
+        "mean_soft_cross_entropy_nats": 1.1378524512394692
+      },
+      {
+        "config_id": "r16_lr2e5_hw00_ew05",
+        "mean_soft_cross_entropy_nats": 1.1463315089087112
+      },
+      {
+        "config_id": "r32_lr2e5_hw10_ew10",
+        "mean_soft_cross_entropy_nats": 1.161322477246372
+      }
+    ],
+    "inner_category_count": 7,
+    "inner_image_count_per_config": 175
+  },
+  "8": {
+    "config_id": "r32_lr5e5_hw20_ew10",
+    "rank": 32,
+    "alpha": 64,
+    "learning_rate": 5e-05,
+    "dropout": 0.1,
+    "max_epochs": 18,
+    "hard_weight": 0.2,
+    "entropy_weight": 0.1,
+    "source_run": "soft_r32_lr5e5_hw20_ew10_e18",
+    "outer_fold": 8,
+    "outer_held_out_category": "vacuum_cleaner",
+    "inner_mean_soft_cross_entropy_nats": 1.1340637382969512,
+    "inner_ranking": [
+      {
+        "config_id": "r32_lr5e5_hw20_ew10",
+        "mean_soft_cross_entropy_nats": 1.1340637382969512
+      },
+      {
+        "config_id": "r32_lr2e5_hw10_ew10",
+        "mean_soft_cross_entropy_nats": 1.1470479930712068
+      },
+      {
+        "config_id": "r16_lr2e5_hw00_ew05",
+        "mean_soft_cross_entropy_nats": 1.1619203981473216
+      }
+    ],
+    "inner_category_count": 7,
+    "inner_image_count_per_config": 175
+  }
+}

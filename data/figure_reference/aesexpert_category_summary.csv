@@ -1,0 +1,9 @@
+﻿category,category_label,n,mean_score,median_score,std_score,parse_errors,category_order
+early_automobile,Early automobile,200,6.48,5.0,1.650216979794479,95,0
+sports_car,Sports car,200,8.645,9.0,0.8791127322362577,70,1
+broom,Broom,200,5.11,5.0,0.6323760728296404,17,2
+vacuum_cleaner,Vacuum cleaner,200,5.0,5.0,0.0,13,3
+desk_lamp,Desk lamp,200,6.64,8.0,1.6197276277015527,16,4
+electric_kettle,Electric kettle,200,5.12,5.0,0.6384654970746448,1,5
+lounge_chair,Lounge chair,200,7.325,9.0,1.9203682121800896,56,6
+sneakers,Sneakers,200,8.46,9.0,1.348142216973393,27,7

@@ -1,0 +1,24 @@
+{
+  "source_csv": "data/human_responses_30x200.csv",
+  "source_csv_sha256": "85d109262de71f6c06668103f86b81f9f74585fc2a2e60428a8e1d37928fb639",
+  "audit": {
+    "rows": 6000,
+    "raters": 30,
+    "images": 200,
+    "duplicate_rater_image_rows": 0,
+    "invalid_design_intent_labels": [],
+    "invalid_score_cells": 0
+  },
+  "training_target": "five-dimensional empirical human response distribution",
+  "auxiliary_hard_target": "argmax over functionality, aesthetics, usability, symbolism, unclear",
+  "tie_note": "The primary soft target preserves exact ties. The auxiliary hard-loss term uses deterministic argmax label order.",
+  "split_design": {
+    "folds": 5,
+    "images_per_fold": 200,
+    "train_per_fold": 120,
+    "validation_per_fold": 40,
+    "test_per_fold": 40,
+    "test_images_per_category": 5,
+    "out_of_fold_coverage": "every image appears in exactly one test split"
+  }
+}

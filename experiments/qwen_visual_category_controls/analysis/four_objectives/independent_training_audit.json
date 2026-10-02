@@ -1,0 +1,66 @@
+{
+  "folds": [
+    {
+      "fold": 1,
+      "best_epoch": 9,
+      "epochs_run": 13,
+      "seconds": 544.1903438568115,
+      "human_distributions_match_all_splits": true
+    },
+    {
+      "fold": 2,
+      "best_epoch": 7,
+      "epochs_run": 11,
+      "seconds": 460.6849138736725,
+      "human_distributions_match_all_splits": true
+    },
+    {
+      "fold": 3,
+      "best_epoch": 5,
+      "epochs_run": 9,
+      "seconds": 377.07322096824646,
+      "human_distributions_match_all_splits": true
+    },
+    {
+      "fold": 4,
+      "best_epoch": 3,
+      "epochs_run": 7,
+      "seconds": 295.60471773147583,
+      "human_distributions_match_all_splits": true
+    },
+    {
+      "fold": 5,
+      "best_epoch": 6,
+      "epochs_run": 10,
+      "seconds": 418.68904185295105,
+      "human_distributions_match_all_splits": true
+    }
+  ],
+  "prediction_rows": 200,
+  "selection_recomputed_from_validation_logs": true,
+  "all_split_human_probabilities_match_original_6000_responses": true,
+  "independent_probability_and_hard_scores_match": true,
+  "file_sha256": {
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_01\\run_summary.json": "34b51f6a46fa7cd902eef0b64bda9bebf1d63878f8965305a5f21022a811730f",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_01\\training_args.json": "f73a76439bb6702dcbe21dfa48ae9400a2f563a96441c40a7c81d3cb9f851adb",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_01\\train_log.jsonl": "340883d58fe2b75cd1f2c648cf825cc0bb9147a2cf5f6436ee73a21f44e99e4e",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_01\\predictions.jsonl": "13148901f30a6ff2b7f7d9a540b2ebba716abda7343c1a0e859adcfa222bc55c",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_02\\run_summary.json": "ce6292e258c13e0ce9540ed0baa4d605adf43a5e27e9f0286c4af9450c79d77d",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_02\\training_args.json": "d9d5b6efde7b5ceca34d08f1ff8871f8b7c4539404c3588e231df6ae82270972",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_02\\train_log.jsonl": "3df0d825fdd08934f4a2272d2684dead47969e86d21de9848fe30bdb62338ad0",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_02\\predictions.jsonl": "addfa4b1b1a5e791063e2a69860ed982c300ac0a3c6faa59fd3ecc57e0d2b22d",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_03\\run_summary.json": "179b9c22200109df60400b8218aa4986f8f4d294fb144dc2ce7ded8a45253432",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_03\\training_args.json": "d7cc9d73a9091a047f5427d41c938391b5f0f18758c5bfb735127e6806c0ee77",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_03\\train_log.jsonl": "210c64267844f900b3ba03482b8e15abb8239eb9f16b08a71e1d6a21315e6156",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_03\\predictions.jsonl": "955893d2958810eadebd9472a0cea6ee11c9c6a4e7b613afa39194dba377e0ff",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_04\\run_summary.json": "20ab7e08909f6d3fad1e22274ea43b7cab1a779eccfb273b97501cd7db684b49",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_04\\training_args.json": "7ac6f0bc8c47a051d0d75c49d7769526ee60988c3bf6eb578fdc6583ca0d8695",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_04\\train_log.jsonl": "a658f337f9f87568097c387342b112881085f7d2a64b467cf74219d00ad581c8",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_04\\predictions.jsonl": "9c493db9d0d1f1be3bad8b0e5bbaf4c5fa2fed6218cfb92ba20a7716fa8cb5dc",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_05\\run_summary.json": "6f5f4bb4b703e4a35ed89490e6cc3ba679f0ebb131ca0d0be827f98440d27da0",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_05\\training_args.json": "7738dc2eb644aa56d1cb79dfafc6f13c4812cbc58d2c7b83d4e802a0b18c1bb8",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_05\\train_log.jsonl": "849da08333010fcc27f7e949e64cb93cf7e68692fc9f899c294ce97a6391eb3c",
+    "03_experiments\\qwen_visual_category_controls\\outputs\\soft_entropy\\fold_05\\predictions.jsonl": "379865bcdc958c69f7cc267534ba8e7e54fe731ab4181391e46701946ea69e5b"
+  },
+  "issues": []
+}

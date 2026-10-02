@@ -1,0 +1,24 @@
+{
+  "experiment": "Qwen2.5-VL-7B target-category-omitted prompt ablation",
+  "model_id": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "model_revision": "cc594898137f460bfe9f0759e9844b3ce807cfb5",
+  "precision": "bfloat16",
+  "decoding": {
+    "do_sample": false,
+    "max_new_tokens": 220
+  },
+  "images": 200,
+  "categories": 8,
+  "selection": "sample_index 1-25 per category; fixed subset, selection rationale absent in archive",
+  "prompt_key": "s2_descriptive_fields_no_target_category",
+  "prompt_source_sha256": "3c61f49a3d22828a064a1dbf78490dec841ce8db066bd6fbc4d9a83c37e5f8f2",
+  "original_prompt_sha256": "26aa07eb586ba5321485b0c04ed3262ddbef885b9807ec7467654a357ae4c930",
+  "runtime": {
+    "torch": "2.8.0+cu128",
+    "transformers": "5.12.1",
+    "mistral_common_isolated": "1.12.0",
+    "gpu": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition"
+  },
+  "output_rows": 200,
+  "invalid_or_missing_design_intent": 0
+}

@@ -1,0 +1,44 @@
+{
+  "human_images": 200,
+  "responses_per_image": 30,
+  "independently_counted_conditions": 8,
+  "independent_point_scores": {
+    "canonical__category_only": {
+      "accuracy": 0.6125,
+      "HASS": 0.503
+    },
+    "canonical__image_category": {
+      "accuracy": 0.705,
+      "HASS": 0.5486666666666669
+    },
+    "canonical__image_only": {
+      "accuracy": 0.6625,
+      "HASS": 0.5188333333333335
+    },
+    "canonical__shuffled_image_category": {
+      "accuracy": 0.6875,
+      "HASS": 0.5403333333333333
+    },
+    "reverse__category_only": {
+      "accuracy": 0.6125,
+      "HASS": 0.48849999999999993
+    },
+    "reverse__image_category": {
+      "accuracy": 0.6675,
+      "HASS": 0.5281666666666669
+    },
+    "reverse__image_only": {
+      "accuracy": 0.6375,
+      "HASS": 0.5006666666666667
+    },
+    "reverse__shuffled_image_category": {
+      "accuracy": 0.65,
+      "HASS": 0.5195000000000002
+    }
+  },
+  "repeated_same_input_via_shuffle": 400,
+  "same_raw_greedy_response": 400,
+  "issues": [],
+  "scope": "Independent Counter-based vote tally and tie credit, without importing the primary metric implementation. Shuffle reuses the same image/category pairs in a permuted evaluation mapping; repeated-inference agreement is checked explicitly.",
+  "human_csv_sha256": "85d109262de71f6c06668103f86b81f9f74585fc2a2e60428a8e1d37928fb639"
+}

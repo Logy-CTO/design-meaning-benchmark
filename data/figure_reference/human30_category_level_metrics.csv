@@ -1,0 +1,81 @@
+﻿model,model_group,category,category_label,accuracy,mismatch_rate,haas,category_jsd
+"LLaVA-1.5 (7B, 2023)",open_source,sports_car,Sports car,0.0,1.0,0.09333333333333334,0.7699574790860761
+"LLaVA-1.5 (7B, 2023)",open_source,early_automobile,Early automobile,0.0,1.0,0.2173333333333333,0.5880204730276689
+"LLaVA-1.5 (7B, 2023)",open_source,vacuum_cleaner,Vacuum cleaner,0.96,0.04,0.66,0.19529542625770435
+"LLaVA-1.5 (7B, 2023)",open_source,broom,Broom,0.8,0.2,0.6186666666666666,0.22337485692148537
+"LLaVA-1.5 (7B, 2023)",open_source,electric_kettle,Electric kettle,1.0,0.0,0.8506666666666668,0.07901749682719544
+"LLaVA-1.5 (7B, 2023)",open_source,lounge_chair,Lounge chair,0.36,0.64,0.3613333333333334,0.43176281213206413
+"LLaVA-1.5 (7B, 2023)",open_source,desk_lamp,Desk lamp,0.64,0.36,0.5266666666666666,0.29047938402057705
+"LLaVA-1.5 (7B, 2023)",open_source,sneakers,Sneakers,0.44,0.56,0.37866666666666665,0.4153940697807465
+"MiniCPM-V2.5 (8B, 2024)",open_source,sports_car,Sports car,1.0,0.0,0.7106666666666667,0.16240185225867382
+"MiniCPM-V2.5 (8B, 2024)",open_source,early_automobile,Early automobile,0.0,1.0,0.20933333333333334,0.5457486648767934
+"MiniCPM-V2.5 (8B, 2024)",open_source,vacuum_cleaner,Vacuum cleaner,0.48,0.52,0.5013333333333333,0.13455018390669968
+"MiniCPM-V2.5 (8B, 2024)",open_source,broom,Broom,0.72,0.28,0.5733333333333333,0.15258968874797849
+"MiniCPM-V2.5 (8B, 2024)",open_source,electric_kettle,Electric kettle,0.92,0.08,0.8026666666666666,0.027017451116132837
+"MiniCPM-V2.5 (8B, 2024)",open_source,lounge_chair,Lounge chair,0.16,0.84,0.25066666666666665,0.285412181341633
+"MiniCPM-V2.5 (8B, 2024)",open_source,desk_lamp,Desk lamp,0.68,0.32,0.4893333333333333,0.044458613192594545
+"MiniCPM-V2.5 (8B, 2024)",open_source,sneakers,Sneakers,0.2,0.8,0.22400000000000003,0.3720343816584737
+"Qwen2.5-VL (7B, 2025)",open_source,sports_car,Sports car,1.0,0.0,0.7106666666666667,0.16240185225867382
+"Qwen2.5-VL (7B, 2025)",open_source,early_automobile,Early automobile,0.04,0.96,0.24133333333333337,0.4270754714853424
+"Qwen2.5-VL (7B, 2025)",open_source,vacuum_cleaner,Vacuum cleaner,0.96,0.04,0.66,0.19529542625770435
+"Qwen2.5-VL (7B, 2025)",open_source,broom,Broom,0.8,0.2,0.6186666666666666,0.22337485692148537
+"Qwen2.5-VL (7B, 2025)",open_source,electric_kettle,Electric kettle,1.0,0.0,0.8506666666666668,0.07901749682719544
+"Qwen2.5-VL (7B, 2025)",open_source,lounge_chair,Lounge chair,0.32,0.68,0.2826666666666667,0.2753639198854854
+"Qwen2.5-VL (7B, 2025)",open_source,desk_lamp,Desk lamp,0.64,0.36,0.484,0.10706999053396575
+"Qwen2.5-VL (7B, 2025)",open_source,sneakers,Sneakers,0.32,0.68,0.3506666666666666,0.2904800163041964
+"InternVL3 (8B, 2025)",open_source,sports_car,Sports car,1.0,0.0,0.7106666666666667,0.16240185225867382
+"InternVL3 (8B, 2025)",open_source,early_automobile,Early automobile,0.0,1.0,0.19866666666666666,0.5244620362021843
+"InternVL3 (8B, 2025)",open_source,vacuum_cleaner,Vacuum cleaner,0.96,0.04,0.66,0.19529542625770435
+"InternVL3 (8B, 2025)",open_source,broom,Broom,0.8,0.2,0.6186666666666666,0.22337485692148537
+"InternVL3 (8B, 2025)",open_source,electric_kettle,Electric kettle,1.0,0.0,0.8506666666666668,0.07901749682719544
+"InternVL3 (8B, 2025)",open_source,lounge_chair,Lounge chair,0.24,0.76,0.25866666666666666,0.5388187612161046
+"InternVL3 (8B, 2025)",open_source,desk_lamp,Desk lamp,0.4,0.6,0.3866666666666667,0.19830834788059143
+"InternVL3 (8B, 2025)",open_source,sneakers,Sneakers,0.04,0.96,0.14800000000000002,0.681735115475741
+"Qwen2.5-VL (32B, 2025)",scale,sports_car,Sports car,1.0,0.0,0.7106666666666667,0.16240185225867382
+"Qwen2.5-VL (32B, 2025)",scale,early_automobile,Early automobile,1.0,0.0,0.6653333333333332,0.19175636763492454
+"Qwen2.5-VL (32B, 2025)",scale,vacuum_cleaner,Vacuum cleaner,0.84,0.16,0.616,0.09475478020044317
+"Qwen2.5-VL (32B, 2025)",scale,broom,Broom,0.68,0.32,0.5466666666666666,0.2170425392908869
+"Qwen2.5-VL (32B, 2025)",scale,electric_kettle,Electric kettle,0.28,0.72,0.2986666666666667,0.3118973029000862
+"Qwen2.5-VL (32B, 2025)",scale,lounge_chair,Lounge chair,0.24,0.76,0.25866666666666666,0.5388187612161046
+"Qwen2.5-VL (32B, 2025)",scale,desk_lamp,Desk lamp,0.36,0.64,0.3373333333333333,0.3940759572112733
+"Qwen2.5-VL (32B, 2025)",scale,sneakers,Sneakers,0.16,0.84,0.212,0.5013764456890201
+"Qwen2.5-VL (72B, 2025)",scale,sports_car,Sports car,1.0,0.0,0.7106666666666667,0.16240185225867382
+"Qwen2.5-VL (72B, 2025)",scale,early_automobile,Early automobile,1.0,0.0,0.6653333333333332,0.19175636763492454
+"Qwen2.5-VL (72B, 2025)",scale,vacuum_cleaner,Vacuum cleaner,0.68,0.32,0.52,0.08704863888446641
+"Qwen2.5-VL (72B, 2025)",scale,broom,Broom,0.8,0.2,0.608,0.20030060073105402
+"Qwen2.5-VL (72B, 2025)",scale,electric_kettle,Electric kettle,0.32,0.68,0.3706666666666667,0.2911823535097443
+"Qwen2.5-VL (72B, 2025)",scale,lounge_chair,Lounge chair,0.24,0.76,0.2853333333333333,0.3282924445535317
+"Qwen2.5-VL (72B, 2025)",scale,desk_lamp,Desk lamp,0.48,0.52,0.37599999999999995,0.11325843531166843
+"Qwen2.5-VL (72B, 2025)",scale,sneakers,Sneakers,0.2,0.8,0.22133333333333335,0.4430705587755196
+"InternVL3 (38B, 2025)",scale,sports_car,Sports car,1.0,0.0,0.7106666666666667,0.16240185225867382
+"InternVL3 (38B, 2025)",scale,early_automobile,Early automobile,0.88,0.12,0.6226666666666667,0.07973153277380442
+"InternVL3 (38B, 2025)",scale,vacuum_cleaner,Vacuum cleaner,0.96,0.04,0.66,0.19529542625770435
+"InternVL3 (38B, 2025)",scale,broom,Broom,0.8,0.2,0.6186666666666666,0.22337485692148537
+"InternVL3 (38B, 2025)",scale,electric_kettle,Electric kettle,1.0,0.0,0.8506666666666668,0.07901749682719544
+"InternVL3 (38B, 2025)",scale,lounge_chair,Lounge chair,0.28,0.72,0.2626666666666667,0.37576379012547434
+"InternVL3 (38B, 2025)",scale,desk_lamp,Desk lamp,0.36,0.64,0.3373333333333333,0.3940759572112733
+"InternVL3 (38B, 2025)",scale,sneakers,Sneakers,0.08,0.92,0.184,0.5016447320715415
+GPT-5.5,commercial,early_automobile,Early automobile,1.0,0.0,0.6653333333333332,0.19175636763492454
+GPT-5.5,commercial,sports_car,Sports car,0.92,0.08,0.6493333333333333,0.1080893693598822
+GPT-5.5,commercial,broom,Broom,0.72,0.28,0.5706666666666667,0.2170425392908869
+GPT-5.5,commercial,vacuum_cleaner,Vacuum cleaner,0.92,0.08,0.6573333333333332,0.13452588832501916
+GPT-5.5,commercial,electric_kettle,Electric kettle,0.8,0.2,0.672,0.124605178682032
+GPT-5.5,commercial,lounge_chair,Lounge chair,0.28,0.72,0.32800000000000007,0.3351110406410085
+GPT-5.5,commercial,desk_lamp,Desk lamp,0.76,0.24,0.544,0.11625174540204977
+GPT-5.5,commercial,sneakers,Sneakers,0.04,0.96,0.14800000000000002,0.681735115475741
+Gemini 2.5 Flash,commercial,early_automobile,Early automobile,0.52,0.48,0.4706666666666666,0.05675443192319647
+Gemini 2.5 Flash,commercial,sports_car,Sports car,0.96,0.04,0.6920000000000001,0.11938522760976408
+Gemini 2.5 Flash,commercial,broom,Broom,0.52,0.48,0.43733333333333335,0.22265042792335693
+Gemini 2.5 Flash,commercial,vacuum_cleaner,Vacuum cleaner,0.8,0.2,0.58,0.08519858026320505
+Gemini 2.5 Flash,commercial,electric_kettle,Electric kettle,1.0,0.0,0.8506666666666668,0.07901749682719544
+Gemini 2.5 Flash,commercial,lounge_chair,Lounge chair,0.24,0.76,0.2773333333333333,0.34944503979698294
+Gemini 2.5 Flash,commercial,desk_lamp,Desk lamp,0.68,0.32,0.5013333333333333,0.0949146237043106
+Gemini 2.5 Flash,commercial,sneakers,Sneakers,0.08,0.92,0.14933333333333335,0.5906098647277903
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",adapter,broom,Broom,0.8,0.2,0.624,0.1498328503530082
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",adapter,desk_lamp,Desk lamp,0.68,0.32,0.54,0.12760350039014945
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",adapter,early_automobile,Early automobile,1.0,0.0,0.6653333333333332,0.19175636763492457
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",adapter,electric_kettle,Electric kettle,1.0,0.0,0.8506666666666667,0.07901749682719536
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",adapter,lounge_chair,Lounge chair,0.32,0.68,0.3453333333333334,0.1400100975792426
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",adapter,sneakers,Sneakers,0.8,0.2,0.49866666666666665,0.09787950795018666
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",adapter,sports_car,Sports car,1.0,0.0,0.7106666666666667,0.16240185225867382
+"Human-aligned adapter (Qwen2.5-VL 7B, 2025)",adapter,vacuum_cleaner,Vacuum cleaner,0.96,0.04,0.66,0.19529542625770435
