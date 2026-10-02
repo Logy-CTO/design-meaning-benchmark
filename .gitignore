@@ -8,3 +8,4 @@ __pycache__/
 *.safetensors
 *.bin
 *.pt
+downloaded_archives/

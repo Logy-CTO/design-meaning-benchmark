@@ -9,8 +9,7 @@ authors:
   - family-names: Kwon
     given-names: Jang Woo
     affiliation: Inha University
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-10-02
-doi: 10.5281/zenodo.23092631
-url: https://github.com/Logy-CTO/design-meaning-benchmark
+url: https://github.com/Logy-CTO/design-meaning-benchmark/releases/tag/v1.0.1
 license: CC-BY-NC-4.0

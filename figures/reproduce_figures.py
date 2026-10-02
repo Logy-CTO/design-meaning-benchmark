@@ -61,6 +61,9 @@ def vector_save(fig, fname, *args, **kwargs):
     path = Path(fname).with_suffix(".pdf")
     assert path.is_relative_to(OUT)
     for ax in fig.axes:
+        labels=[label.get_text() for label in ax.get_yticklabels()]
+        if any('GPT-5.5 (2025)' in label for label in labels):
+            ax.set_yticks(ax.get_yticks(),[label.replace('GPT-5.5 (2025)','GPT-5.5 (2026)') for label in labels])
         if ax.get_xlabel() == "Design-intent share":
             ax.set_xlabel("Selected-label share", fontsize=ax.xaxis.label.get_fontsize())
     if fig._supxlabel is not None:
